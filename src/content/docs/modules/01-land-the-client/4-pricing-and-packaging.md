@@ -43,6 +43,16 @@ Never present one price — present **three tiers.** It's the oldest trick in re
 
 Most clients pick the middle — which is exactly where you want your best-value offer to sit. The top tier makes the middle look sensible; the bottom tier catches the cautious.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">The good-better-best ladder</span>
+	<div class="rr-bars">
+		<div class="rr-bar"><span class="rr-bar__label">Basic</span><span class="rr-bar__track"><span class="rr-bar__fill" style="--v:40%"></span></span><span class="rr-bar__val">Low</span></div>
+		<div class="rr-bar rr-bar--seo"><span class="rr-bar__label">Growth</span><span class="rr-bar__track"><span class="rr-bar__fill" style="--v:70%"></span></span><span class="rr-bar__val">Medium</span></div>
+		<div class="rr-bar"><span class="rr-bar__label">Pro</span><span class="rr-bar__track"><span class="rr-bar__fill" style="--v:100%"></span></span><span class="rr-bar__val">High</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">Illustrative shapes, not prices — scope, effort and fee all climb across the tiers, and the highlighted middle is where most clients land.</figcaption>
+</figure>
+
 :::note[📋 Swipe this]
 When you present tiers, say: *"I've put together three options depending on how fast you want to move. Most clinics like yours start on Growth — it covers the visibility problem we talked about and it's the best value. Basic is if you want to start small, and Pro adds paid ads if you want leads faster."* Guide them to the middle without pushing. Naming *their* problem inside the pitch ("the visibility problem we talked about") ties the tier back to the pre-audit.
 :::

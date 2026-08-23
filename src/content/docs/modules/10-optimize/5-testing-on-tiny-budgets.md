@@ -13,9 +13,14 @@ So does testing just… not apply to small businesses? No. It applies *different
 
 With low volume, small differences are undetectable — you'll never reliably prove that a button one shade darker lifted clicks by 3%, because the noise is bigger than the signal. So don't test small things. **Test changes big enough that even thin data can show them.**
 
-- Not "Book Now" vs "Book Today." → *A whole different offer:* "Free consultation" vs "₹300 first check-up."
-- Not two near-identical titles. → *A different angle entirely:* price-led vs pain-led vs speed-led.
-- Not a subtle layout nudge. → *Phone-first vs form-first* landing page.
+<figure class="rr-fig">
+	<span class="rr-fig__title">TEST BIG SWINGS, NOT TINY TWEAKS</span>
+	<div class="rr-dodont">
+		<div class="rr-do"><h4>✅ Do</h4><ul><li>A whole different offer: "Free consultation" vs "₹300 first check-up"</li><li>A different angle entirely: price-led vs pain-led vs speed-led</li><li>Phone-first vs form-first landing page</li></ul></div>
+		<div class="rr-dont"><h4>⛔ Don't</h4><ul><li>"Book Now" vs "Book Today"</li><li>Two near-identical titles</li><li>A subtle layout nudge</li></ul></div>
+	</div>
+	<figcaption class="rr-fig__cap">On low volume the signal must beat the noise — only big swings clear that bar.</figcaption>
+</figure>
 
 Big swings produce big, readable differences. Timid tweaks produce noise you'll misread as signal.
 

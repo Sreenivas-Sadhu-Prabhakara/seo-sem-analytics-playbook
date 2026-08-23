@@ -26,6 +26,17 @@ A Google Ads account nests like a set of dabbas:
 
 **Budgets live at the campaign level.** Settings that should differ — a location, a schedule, a bid strategy — are reasons to split into separate campaigns. **Themes** are reasons to split into separate ad groups.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">HOW THE ACCOUNT NESTS</span>
+	<div class="rr-pyramid">
+		<div class="rr-pyramid__row"><b>Keywords &amp; Ads</b><span>the exact searches you bid on and the ads that show</span></div>
+		<div class="rr-pyramid__row"><b>Ad group</b><span>one tight theme — related keywords + its ads</span></div>
+		<div class="rr-pyramid__row"><b>Campaign</b><span>budget, geo, schedule, bid strategy</span></div>
+		<div class="rr-pyramid__row"><b>Account</b><span>the whole business — one billing setup</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">Broadest at the base (the account), narrowing to the exact search — illustrative structure.</figcaption>
+</figure>
+
 :::note[🎓 Foundations]
 **Campaign vs ad group — the one thing beginners muddle.** A *campaign* controls the money and the settings: how much you spend a day, which city you target, what hours you run, how you bid. An *ad group* controls the *matching*: a small cluster of closely related keywords and the ads that answer them. One campaign holds several ad groups. Rule of thumb: **if two things need different budgets or targeting, split the campaign; if they're just different topics, split the ad group.**
 :::

@@ -11,6 +11,12 @@ Off-page is when the *rest of the internet* walks up to the mic and says whether
 
 That's the whole game this module. On-page tells Google **what you are**. Off-page tells Google **whether the world backs you up**. Links, mentions, reviews and reputation are the votes and the gossip that decide "prominence" — Google's word for how well-known and well-regarded a business is. Two clinics can have identical websites; the one the neighbourhood, the local press and a physio association all point to is the one that wins the map pack.
 
+<div class="rr-stats">
+	<div class="rr-stat"><span class="rr-stat__num">1</span><span class="rr-stat__label">module where bad work can get a client penalised</span></div>
+	<div class="rr-stat rr-stat--good"><span class="rr-stat__num">₹0</span><span class="rr-stat__label">to earn an honest, editorial link</span></div>
+	<div class="rr-stat rr-stat--seo"><span class="rr-stat__num">10–15</span><span class="rr-stat__label">local link opportunities you'll map</span></div>
+</div>
+
 Here's the catch that makes this the most dangerous module in the course: off-page is the one place a freelancer can get their client *penalised*. Every other skill, done badly, just underperforms. Done badly here, you can bury a business that was doing fine. So we're going to teach the durable, ethical, boringly-effective way to earn authority — and then walk you right up to the black-hat cliff and show you the bones at the bottom.
 
 ## What you'll be able to charge for after this

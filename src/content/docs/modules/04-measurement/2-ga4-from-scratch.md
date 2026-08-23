@@ -23,10 +23,16 @@ You'll create all three in one sitting at [analytics.google.com](https://analyti
 
 Menus move — Google reshuffles this UI regularly — so follow the *intent*, not the pixels:
 
-1. **Create an Analytics account.** Admin → Create → Account. Name it after the business ("Meena Dental Clinic"). Set the data-sharing checkboxes to the client's comfort — defaults are fine for most.
-2. **Create a property.** Name it, then **set the reporting time zone and currency here — this is the step everyone fumbles.** Time zone: **(GMT+05:30) India Standard Time**. Currency: **Indian Rupee (INR ₹)**.
-3. **Describe the business** (size, category) — low stakes, pick honestly.
-4. **Create a Web data stream.** Enter the website URL and a stream name. GA4 hands you a **Measurement ID** that looks like **`G-XXXXXXXXXX`**. That's the golden ticket — the ID that ties the site to this property.
+<figure class="rr-fig">
+	<span class="rr-fig__title">THE GA4 SETUP, IN FOUR MOVES</span>
+	<ol class="rr-steps">
+		<li><b>Create an Analytics account</b> — <span>Admin → Create → Account. Name it after the business ("Meena Dental Clinic"). Set the data-sharing checkboxes to the client's comfort — defaults are fine for most.</span></li>
+		<li><b>Create a property</b> — <span>Name it, then <b>set the reporting time zone and currency here — this is the step everyone fumbles.</b> Time zone: (GMT+05:30) India Standard Time. Currency: Indian Rupee (INR ₹).</span></li>
+		<li><b>Describe the business</b> — <span>(size, category) — low stakes, pick honestly.</span></li>
+		<li><b>Create a Web data stream</b> — <span>Enter the website URL and a stream name. GA4 hands you a <b>Measurement ID</b> that looks like <b>G-XXXXXXXXXX</b>. That's the golden ticket — the ID that ties the site to this property.</span></li>
+	</ol>
+	<figcaption class="rr-fig__cap">Follow the intent, not the pixels — Google reshuffles this UI, but the four moves stay put.</figcaption>
+</figure>
 
 > 📸 *[Screenshot placeholder: GA4 Admin → Data Streams → Web, showing the Measurement ID field with a G-XXXXXXXXXX value]*
 

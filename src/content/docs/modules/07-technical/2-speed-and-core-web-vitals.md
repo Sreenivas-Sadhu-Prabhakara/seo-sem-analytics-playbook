@@ -17,6 +17,16 @@ Two reasons. First, **users leave slow sites** — every extra second bleeds enq
 
 Google boils "how does this page *feel* to use" down to three measurable things, collectively called **Core Web Vitals (CWV)**. Learn these three initials cold — they come up in every technical audit.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">Core Web Vitals — the three "good" targets</span>
+	<div class="rr-stats">
+		<div class="rr-stat rr-stat--good"><span class="rr-stat__num">&lt;2.5s</span><span class="rr-stat__label">LCP — the biggest thing on screen has loaded</span></div>
+		<div class="rr-stat rr-stat--seo"><span class="rr-stat__num">&lt;200ms</span><span class="rr-stat__label">INP — the page responds when you tap</span></div>
+		<div class="rr-stat rr-stat--ads"><span class="rr-stat__num">&lt;0.1</span><span class="rr-stat__label">CLS — how much the layout jumps</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">Google's published "good" thresholds — you want all three green, not an average.</figcaption>
+</figure>
+
 | Metric | Full name | In plain terms | The "good" target |
 |---|---|---|---|
 | **LCP** | Largest Contentful Paint | How long until the biggest thing on screen (usually the hero image or headline) has loaded. The "is it there yet?" metric. | Under **2.5 seconds** |

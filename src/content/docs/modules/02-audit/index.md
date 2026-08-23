@@ -11,6 +11,19 @@ Resist it. A doctor who writes a prescription before checking your pulse isn't c
 
 This module turns you into a diagnostician. You'll walk into every new engagement with a system: interview the owner, health-check the website, grade the SEO and local presence, audit whether anything is even being measured, and size up the paid and competitive landscape. Then you package it all into one document — the **Audit Report** — that does something magical: it makes the client *see* their own problems, agree they're real, and ask you to fix them.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">THE AUDIT SEQUENCE</span>
+	<ol class="rr-steps">
+		<li><b>Discovery interview</b> — <span>interview the owner and pin down the ONE metric</span></li>
+		<li><b>Technical quick-audit</b> — <span>health-check the website with free tools</span></li>
+		<li><b>SEO &amp; local</b> — <span>grade organic and local presence vs real competitors</span></li>
+		<li><b>Analytics &amp; tracking</b> — <span>check whether anything is even being measured</span></li>
+		<li><b>Paid &amp; competitor</b> — <span>size up ad spend and the competitive landscape</span></li>
+		<li><b>Audit Report</b> — <span>package it all into one document that sells the fix</span></li>
+	</ol>
+	<figcaption class="rr-fig__cap">Run these in order — each lesson in this module is one step.</figcaption>
+</figure>
+
 ## What you'll be able to charge for after this
 
 - **Paid audits as a standalone product.** Many owners aren't ready for a retainer, but they'll happily pay for a clear diagnosis. The audit becomes a low-risk first sale that de-risks the bigger one.
@@ -32,6 +45,16 @@ By the end of this module you can:
 ## The deliverable
 
 The module Assignment is a complete **Audit Report** for your capstone client — executive summary, findings by area, prioritised opportunities, and a recommended plan with illustrative pricing. It's the document that defines everything you'll fix in Modules 4 through 9, and it's the first real artefact in your freelance portfolio.
+
+<figure class="rr-fig">
+	<span class="rr-fig__title">THE MODULE AT A GLANCE</span>
+	<div class="rr-stats">
+		<div class="rr-stat rr-stat--seo"><span class="rr-stat__num">4</span><span class="rr-stat__label">audit areas to grade</span></div>
+		<div class="rr-stat rr-stat--good"><span class="rr-stat__num">₹0</span><span class="rr-stat__label">for almost every tool</span></div>
+		<div class="rr-stat"><span class="rr-stat__num">1–2</span><span class="rr-stat__label">days to run the whole diagnostic</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">Illustrative shape of the module — the four audits are technical, SEO/local, analytics and paid.</figcaption>
+</figure>
 
 ## Tools used
 

@@ -11,6 +11,17 @@ Here's the split nobody explains to the client: **local SEO gets you found; on-p
 
 That's the whole game of this module. **Every page has two audiences — a robot and a buyer — and you serve both without compromising either.** Do it right and the same page that ranks also converts. Do it lazily and you get the worst outcome in SEO: a beautifully optimised page that ranks page one and generates exactly zero phone calls.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">This module in four numbers</span>
+	<div class="rr-stats">
+		<div class="rr-stat rr-stat--seo"><span class="rr-stat__num">2</span><span class="rr-stat__label">audiences per page — a robot &amp; a buyer</span></div>
+		<div class="rr-stat rr-stat--ads"><span class="rr-stat__num">~8s</span><span class="rr-stat__label">to prove you're the right clinic</span></div>
+		<div class="rr-stat rr-stat--good"><span class="rr-stat__num">3–5</span><span class="rr-stat__label">money pages you'll optimise</span></div>
+		<div class="rr-stat"><span class="rr-stat__num">90-day</span><span class="rr-stat__label">content calendar you'll hand over</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">The whole module at a glance — the eight-second figure is an illustrative rule of thumb.</figcaption>
+</figure>
+
 Throughout this module we'll work on a composite capstone client — **Revive Physiotherapy, a hypothetical two-branch clinic in Indiranagar and HSR Layout, Bengaluru.** (Composite means we invented it to teach with; treat it as a stand-in for your real client.) Physio is a lovely teaching case: multiple services, two locations, and it's a health business — so the trust bar is high and every lesson lands harder.
 
 ## What you'll be able to charge for after this

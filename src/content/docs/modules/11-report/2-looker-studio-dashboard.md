@@ -45,6 +45,17 @@ Resist the urge to add everything. A great SMB dashboard is skimmable in ten sec
 6. **Ad spend vs conversions / CPL:** if Ads is live — spend against conversions, and the cost per lead. The single most important tile for justifying ad budget.
 7. **GBP calls & directions (if available):** from your Sheet — a simple monthly bar.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">THE SCORECARD ROW — WHAT THE OWNER'S EYE HITS FIRST</span>
+	<div class="rr-stats">
+		<div class="rr-stat rr-stat--good"><span class="rr-stat__num">42</span><span class="rr-stat__label">total leads this month</span></div>
+		<div class="rr-stat rr-stat--seo"><span class="rr-stat__num">28</span><span class="rr-stat__label">phone calls</span></div>
+		<div class="rr-stat rr-stat--seo"><span class="rr-stat__num">9</span><span class="rr-stat__label">WhatsApp enquiries</span></div>
+		<div class="rr-stat rr-stat--ads"><span class="rr-stat__num">₹180</span><span class="rr-stat__label">cost per lead (Ads)</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">Illustrative numbers — your live dashboard shows the client's real figures. Money metrics headline; diagnostics sit below.</figcaption>
+</figure>
+
 :::note[📋 Swipe this]
 **Dashboard layout (top to bottom, one page):**
 

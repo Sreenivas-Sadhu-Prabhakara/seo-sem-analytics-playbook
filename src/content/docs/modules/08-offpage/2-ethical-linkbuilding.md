@@ -21,6 +21,18 @@ Before you chase any link, run it through the filter from the last lesson:
 
 If a real human would put it there because it genuinely helps their audience or reflects a real relationship — go for it. If it only exists to move rankings — walk away. Print this above your desk. It'll keep you and your clients out of trouble for your entire career.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">How an honest link actually gets earned</span>
+	<ol class="rr-steps">
+		<li><b>Map what's already real</b> — <span>the suppliers, partners, sponsorships and associations the client already has offline.</span></li>
+		<li><b>Run the one test</b> — <span>"would this link exist if Google didn't?" Keep only the honest yeses.</span></li>
+		<li><b>Just ask</b> — <span>lead with the real relationship: "we're a customer and noticed you list partners — could you add us?"</span></li>
+		<li><b>The link appears</b> — <span>a by-product of a genuine tie — and often a paying customer arrives with it.</span></li>
+		<li><b>It compounds</b> — <span>repeat every month; authority stacks up the way a garden grows, not the way a lottery pays.</span></li>
+	</ol>
+	<figcaption class="rr-fig__cap">Not manufacturing authority — documenting relationships that are already true.</figcaption>
+</figure>
+
 ## Where a local business's links actually live
 
 You don't need a fancy prospecting tool for most of this. You need to think like the business's neighbour.

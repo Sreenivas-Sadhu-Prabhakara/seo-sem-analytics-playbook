@@ -25,6 +25,18 @@ Every strong monthly report hits the same five beats, in this order. Same shape 
 
 That's it. Headline → what we did → what happened → what it means → what's next. Owners can follow it, and — crucially — they can *retell* it, which is how you get referred at their next Rotary lunch.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">THE FIVE-BEAT SPINE — SAME SHAPE EVERY MONTH</span>
+	<ol class="rr-steps">
+		<li><b>Headline result</b> — <span>one sentence, in money language</span></li>
+		<li><b>What we did</b> — <span>two or three plain-English bullets</span></li>
+		<li><b>What happened</b> — <span>the numbers, pointing at the dashboard</span></li>
+		<li><b>What it means</b> — <span>translated to customers and rupees</span></li>
+		<li><b>What's next</b> — <span>the plan for next month</span></li>
+	</ol>
+	<figcaption class="rr-fig__cap">The rhythm the owner comes to trust — and can retell in one breath.</figcaption>
+</figure>
+
 :::note[📋 Swipe this]
 **Monthly report template — steal this whole thing:**
 

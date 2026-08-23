@@ -29,6 +29,21 @@ Honest one-paragraph truth: Ads are **instant and controllable, but rented.** Yo
 On a search results page, the results labelled **"Sponsored"** or **"Ad"** are **paid** — that's Google Ads, and the business paid for that click. Everything else — the map pack and the blue links below — is **organic**, earned through SEO, and free per click. Same page, two completely different economies. Most searchers don't consciously notice the difference; your job is to decide which one to win for your client.
 :::
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">SEO vs Ads — savings account vs salary</span>
+	<div class="rr-compare">
+		<div class="rr-compare__col rr-compare--a">
+			<h4><span class="rr-compare__tag rr-compare__tag--a">SEO</span> Organic</h4>
+			<ul><li>Free per click</li><li>Slow — weeks to months</li><li>Compounds like a savings account</li><li>Keeps working a while after you pause</li></ul>
+		</div>
+		<div class="rr-compare__col rr-compare--b">
+			<h4><span class="rr-compare__tag rr-compare__tag--b">Ads</span> Paid</h4>
+			<ul><li>Pay per click</li><li>Instant — leads the same day</li><li>Rented like a salary</li><li>You vanish the moment you stop paying</li></ul>
+		</div>
+	</div>
+	<figcaption class="rr-fig__cap">The core trade-off as two poles. Weapon 3, Analytics, is the referee watching both.</figcaption>
+</figure>
+
 ## Weapon 3 — GA4 Analytics: the scoreboard
 
 **Google Analytics 4 (GA4)** is the free measurement tool that watches what people do after they arrive — and, wired up properly, how many of them become leads. It's the scoreboard that turns opinion into fact.

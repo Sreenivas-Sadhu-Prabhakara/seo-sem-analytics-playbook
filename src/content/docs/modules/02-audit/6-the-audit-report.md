@@ -17,11 +17,17 @@ The report *is* the product — often the first thing the client actually pays f
 
 Follow this spine every time. It moves the reader from "here's the big picture" to "here's exactly what to do and what it costs."
 
-1. **Executive summary** — the whole thing in half a page.
-2. **Findings by area** — technical, SEO/local, analytics, paid/competitor.
-3. **Prioritised opportunities** — everything you found, sorted by impact and effort.
-4. **Recommended plan** — the sequence of work, in phases.
-5. **What it costs** — illustrative investment for each phase.
+<figure class="rr-fig">
+	<span class="rr-fig__title">THE REPORT SPINE</span>
+	<ol class="rr-steps">
+		<li><b>Executive summary</b> — <span>the whole thing in half a page</span></li>
+		<li><b>Findings by area</b> — <span>technical, SEO/local, analytics, paid/competitor</span></li>
+		<li><b>Prioritised opportunities</b> — <span>everything you found, sorted by impact and effort</span></li>
+		<li><b>Recommended plan</b> — <span>the sequence of work, in phases</span></li>
+		<li><b>What it costs</b> — <span>illustrative investment for each phase</span></li>
+	</ol>
+	<figcaption class="rr-fig__cap">Each numbered section below expands one step of the spine.</figcaption>
+</figure>
 
 ### 1. The executive summary (write it last, put it first)
 

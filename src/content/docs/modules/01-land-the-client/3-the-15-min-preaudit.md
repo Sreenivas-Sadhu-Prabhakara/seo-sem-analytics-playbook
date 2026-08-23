@@ -11,6 +11,21 @@ The difference between them is fifteen minutes of homework.
 
 This lesson is that homework: a fast, repeatable **pre-audit** you run *before* any contact, on any prospect, using only your phone and a browser. It gives you the one thing that makes cold outreach work — something specific, true, and slightly alarming to say.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">Two freelancers walk into a business</span>
+	<div class="rr-compare">
+		<div class="rr-compare__col rr-compare--a">
+			<h4><span class="rr-compare__tag rr-compare__tag--a">Insight</span> Did the homework</h4>
+			<ul><li>Opens with a specific, true observation</li><li>Proves competence — no slide deck needed</li><li>Hands them a problem they can't un-see</li><li>The owner leans in</li></ul>
+		</div>
+		<div class="rr-compare__col rr-compare--b">
+			<h4><span class="rr-compare__tag rr-compare__tag--b">Pitch</span> Skipped it</h4>
+			<ul><li>Opens with "I do digital marketing"</li><li>Sounds like every other stranger</li><li>Asks for trust it hasn't earned</li><li>Shown the door mid-sentence</li></ul>
+		</div>
+	</div>
+	<figcaption class="rr-fig__cap">The only difference between them is fifteen minutes of homework — the pre-audit.</figcaption>
+</figure>
+
 ## Why a free insight beats a sales pitch
 
 Nobody wants to be *sold to.* Everybody wants to be *told something useful about their own business.* When you lead with a specific, verifiable observation — "you don't appear for 'gym near me' in your own area, but three competitors do" — three things happen at once: you prove you did your homework, you demonstrate competence without a slide deck, and you hand them a problem their brain can't un-see. The pitch sells itself after that.

@@ -11,6 +11,17 @@ This module is the switch on the wall. Flip it, and your client is on top of Goo
 
 Done right, Google Ads management is one of the best-paid services a freelancer can offer, precisely *because* it's high-stakes and most people are scared of it. You're not just a technician. You're the person the owner trusts with the debit card. That trust has a price tag.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">PAID SEARCH AT A GLANCE</span>
+	<div class="rr-stats">
+		<div class="rr-stat rr-stat--ads"><span class="rr-stat__num">Same-day</span><span class="rr-stat__label">time to your first paid click</span></div>
+		<div class="rr-stat rr-stat--seo"><span class="rr-stat__num">~6 mo</span><span class="rr-stat__label">what the organic mango tree makes you wait</span></div>
+		<div class="rr-stat"><span class="rr-stat__num">4</span><span class="rr-stat__label">levels: account → campaign → ad group → keyword</span></div>
+		<div class="rr-stat rr-stat--good"><span class="rr-stat__num">Search</span><span class="rr-stat__label">the one campaign type you start with</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">Illustrative — timings are typical, not guaranteed.</figcaption>
+</figure>
+
 ## What you'll be able to charge for after this
 
 - **Building and launching Search campaigns** for local businesses — the bread-and-butter paid service.

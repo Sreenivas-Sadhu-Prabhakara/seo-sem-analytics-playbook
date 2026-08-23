@@ -115,6 +115,15 @@ A freelancer (composite) ran a broad-match campaign for a premium salon and forg
 Watch for **negatives that fight your keywords.** If you add `implant` as a negative to block "implant jobs," you've just blocked your own "dental implants" keyword too — negatives out-muscle keywords. Block the *specific* junk phrase (`implant jobs`, as a phrase negative) rather than the useful word. And re-check your negative list quarterly; a word you blocked last season might be a service the client added since.
 :::
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">STOP THE BUDGET BONFIRE</span>
+	<div class="rr-dodont">
+		<div class="rr-do"><h4>✅ Do</h4><ul><li>Launch on phrase &amp; exact for high-intent keywords</li><li>Open the search-terms report weekly and prune</li><li>Load a negative list on day one</li><li>Block the specific junk phrase, not a useful word</li></ul></div>
+		<div class="rr-dont"><h4>⛔ Don't</h4><ul><li>Run broad match on a fresh account with no conversions</li><li>Set keywords once and walk away</li><li>Skip negatives so job- and freebie-seekers eat the budget</li><li>Forget the cities you don't serve as negatives</li></ul></div>
+	</div>
+	<figcaption class="rr-fig__cap">The month-one wasted-spend checklist, at a glance.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - Setting keywords once and never opening the search-terms report.

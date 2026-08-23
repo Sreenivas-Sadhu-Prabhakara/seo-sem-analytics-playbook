@@ -38,6 +38,15 @@ Use the **most specific type that fits.** A dental clinic is a `Dentist` (which 
 **Do not mark up reviews you invented, or reviews you wrote about yourself.** Google's policy is explicit: `Review` and `AggregateRating` markup must reflect *genuine, independent* reviews that are actually displayed on the page — not self-serving ratings a business awards itself, and not fabricated testimonials. Marking up fake or self-created reviews is a policy violation that can get your rich results removed and earn a **manual action** (a human penalty) against the site. If the business genuinely has reviews shown on the page, mark those up. If it doesn't, leave `AggregateRating` out entirely — an honest listing beats a penalised one. This is one of the fastest ways cheap "SEO experts" torch a client's site; don't be them.
 :::
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">Schema, honestly</span>
+	<div class="rr-dodont">
+		<div class="rr-do"><h4>✅ Do</h4><ul><li>Use the most specific type (<em>Dentist</em>, <em>ExerciseGym</em>), not bare LocalBusiness</li><li>Match every fact to the page &amp; the Google Business Profile</li><li>Mark up only genuine reviews actually shown on the page</li><li>Validate with the Rich Results Test before you deploy</li></ul></div>
+		<div class="rr-dont"><h4>⛔ Don't</h4><ul><li>Invent an AggregateRating or fake testimonials</li><li>Let schema contradict the visible page (different hours or address)</li><li>Promise the client that star ratings will appear</li><li>Deploy schema blind, without validating</li></ul></div>
+	</div>
+	<figcaption class="rr-fig__cap">The honest column is also the one that survives Google's policy checks.</figcaption>
+</figure>
+
 ## How to add it
 
 Three routes, pick by platform:

@@ -37,6 +37,16 @@ Here's the practical mapping — what you actually do to move each factor:
 
 Notice the pattern: **relevance and prominence are things you build. Distance is a fact you can't change.** You can't move a clinic, and you can't (legitimately) trick Google about where it is — fake addresses and virtual-office listings get profiles suspended. So the entire game of local SEO is: nail relevance, then relentlessly grow prominence, so you win as many nearby searches as physics allows.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">HOW MUCH OF EACH PILLAR YOU CAN MOVE</span>
+	<div class="rr-bars">
+		<div class="rr-bar"><span class="rr-bar__label">Relevance</span><span class="rr-bar__track"><span class="rr-bar__fill" style="--v:90%"></span></span><span class="rr-bar__val">You build it</span></div>
+		<div class="rr-bar"><span class="rr-bar__label">Prominence</span><span class="rr-bar__track"><span class="rr-bar__fill" style="--v:90%"></span></span><span class="rr-bar__val">You build it</span></div>
+		<div class="rr-bar"><span class="rr-bar__label">Distance</span><span class="rr-bar__track"><span class="rr-bar__fill" style="--v:12%"></span></span><span class="rr-bar__val">Fixed</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">Illustrative relative control, not ranking weights — distance is a fact you can't change; relevance and prominence you build.</figcaption>
+</figure>
+
 :::tip[⚔️ War story]
 A freelancer (composite) took on a home-cleaning service in Pune and promised the owner "number one in the map pack across the whole city." He built citations, chased reviews, wrote posts — did genuinely good work. But the business operated from one address in Kothrud, and searchers in Viman Nagar, 15 km away, kept seeing Viman Nagar cleaners. The owner felt cheated by a promise that was never physically possible, and the freelancer lost the retainer. The work was fine. The *promise* was the failure. He should have said: "We'll dominate searches near you, and for a genuine city-wide reach you'd want multiple verified locations."
 :::

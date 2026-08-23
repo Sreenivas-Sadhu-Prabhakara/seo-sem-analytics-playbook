@@ -11,6 +11,17 @@ This is the stage of the gig where amateurs and pros split. The amateur signs th
 
 You are here in the arc because you've landed the client (Module 1), audited the site (Module 2), and built a strategy (Module 3). Now — before a single title tag gets rewritten or a rupee gets spent on Ads — you instrument. If you can't measure it, you can't bill for it.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">MODULE 4 AT A GLANCE</span>
+	<div class="rr-stats">
+		<div class="rr-stat rr-stat--good"><span class="rr-stat__num">₹0</span><span class="rr-stat__label">cost of every tool in this module</span></div>
+		<div class="rr-stat rr-stat--seo"><span class="rr-stat__num">6</span><span class="rr-stat__label">SMB money-actions worth tracking</span></div>
+		<div class="rr-stat rr-stat--ads"><span class="rr-stat__num">14 mo</span><span class="rr-stat__label">data retention to set on day one</span></div>
+		<div class="rr-stat"><span class="rr-stat__num">1</span><span class="rr-stat__label">baseline snapshot = every future receipt</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">The shape of the module — free tools, a short list of money-actions, and one baseline that turns future wins into receipts.</figcaption>
+</figure>
+
 ## What you'll be able to charge for after this
 
 - **"Analytics setup"** as a standalone paid service — GA4 + Search Console + conversion tracking, done properly, for clients who currently have nothing or have a broken half-install.

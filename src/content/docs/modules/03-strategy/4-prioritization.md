@@ -59,12 +59,20 @@ A freelancer (composite) opened a gym engagement by pitching a six-month content
 
 Your two big engines behave oppositely, and the client needs to understand the trade before you split a rupee:
 
-| | **SEO / Local SEO** | **Google Ads** |
-|---|---|---|
-| Speed | Slow — months to build | Fast — leads the day you launch |
-| Nature | **Owned** — compounds, keeps paying | **Rented** — stops the instant you stop paying |
-| Cost shape | Mostly your time/effort | Ongoing ad spend + management |
-| Best for | Long-term, durable visibility | Immediate leads, testing demand, seasonal pushes |
+<figure class="rr-fig">
+	<span class="rr-fig__title">Two engines that behave oppositely</span>
+	<div class="rr-compare">
+		<div class="rr-compare__col rr-compare--a">
+			<h4><span class="rr-compare__tag rr-compare__tag--a">SEO</span> Owned &amp; slow</h4>
+			<ul><li>Speed: slow — months to build</li><li>Nature: owned — compounds, keeps paying</li><li>Cost: mostly your time &amp; effort</li><li>Best for: long-term, durable visibility</li></ul>
+		</div>
+		<div class="rr-compare__col rr-compare--b">
+			<h4><span class="rr-compare__tag rr-compare__tag--b">Ads</span> Rented &amp; fast</h4>
+			<ul><li>Speed: fast — leads the day you launch</li><li>Nature: rented — stops the instant you stop paying</li><li>Cost: ongoing ad spend + management</li><li>Best for: immediate leads, testing demand, seasonal pushes</li></ul>
+		</div>
+	</div>
+	<figcaption class="rr-fig__cap">SEO is buying a flat; Ads is renting. Neither is "better" — a smart plan runs both.</figcaption>
+</figure>
 
 Think of it like property: **SEO is buying a flat** — expensive and slow up front, but eventually you stop paying rent and it appreciates. **Ads is renting** — you're visible immediately, but the day you stop paying you're on the street. Neither is "better." A smart plan usually runs **ads to generate leads *now* while SEO matures to reduce your rented dependence later.**
 
@@ -82,9 +90,11 @@ These are illustrative starting points, not laws — the market and platform cos
 
 Zoom out and lay the quadrants onto a timeline. A durable rhythm for a local SMB:
 
-- **Weeks 1–2 — Foundation & quick wins:** complete/verify GBP, fix on-page basics on existing money pages, add click-to-call/WhatsApp, correct NAP and hours. Immediate, visible.
-- **Weeks 3–6 — Lead engines on:** launch a tight Google Ads campaign on bottom-funnel terms for leads *now*; start a simple review-request flow; build or upgrade the top 2–3 service pages.
-- **Weeks 7–12 — Compounding & broadening:** more service/locality pages, ongoing reviews, early content for high-value informational terms, technical clean-up, and first optimisation passes on the ads.
+<ol class="rr-steps">
+	<li><b>Weeks 1–2 · Foundation &amp; quick wins</b> — <span>complete/verify GBP, fix on-page basics on existing money pages, add click-to-call/WhatsApp, correct NAP and hours. Immediate, visible.</span></li>
+	<li><b>Weeks 3–6 · Lead engines on</b> — <span>launch a tight Google Ads campaign on bottom-funnel terms for leads <em>now</em>; start a simple review-request flow; build or upgrade the top 2–3 service pages.</span></li>
+	<li><b>Weeks 7–12 · Compounding &amp; broadening</b> — <span>more service/locality pages, ongoing reviews, early content for high-value informational terms, technical clean-up, and first optimisation passes on the ads.</span></li>
+</ol>
 
 Everything traces back to a line in your keyword map and a quadrant in your matrix. Nothing is there because it's trendy.
 

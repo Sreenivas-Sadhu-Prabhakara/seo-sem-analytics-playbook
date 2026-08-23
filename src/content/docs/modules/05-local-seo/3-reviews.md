@@ -108,6 +108,15 @@ Review generation is usually folded into a **monthly local SEO retainer** rather
 - Copy-paste "Thank you" on every positive review (looks robotic).
 - Ever, under any pressure, buying or incentivising reviews.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">THE REVIEW ENGINE, IN ONE CARD</span>
+	<div class="rr-dodont">
+		<div class="rr-do"><h4>✅ Do</h4><ul><li>Ask at peak happiness — and ask everyone the same way</li><li>Make it one tap: short link, QR, WhatsApp, SMS</li><li>Aim for a steady weekly trickle of genuine reviews</li><li>Reply to every review; stay calm and take the bad ones offline</li></ul></div>
+		<div class="rr-dont"><h4>⛔ Don't</h4><ul><li>Gate reviews — funnel unhappy customers away from Google</li><li>Blast 40 requests once, then go silent</li><li>Buy, pay for, or incentivise a single review</li><li>Argue publicly or ignore the one-stars</li></ul></div>
+	</div>
+	<figcaption class="rr-fig__cap">The whole lesson, distilled: earn a steady stream, respond to all, never fake it.</figcaption>
+</figure>
+
 ## Do this now
 
 Grab your capstone client's short review link from the profile, shorten it, and generate a QR code. Draft the WhatsApp request script in the client's voice. That's your review engine's starter kit — you'll deploy it in the Assignment.

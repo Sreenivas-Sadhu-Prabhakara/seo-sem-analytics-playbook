@@ -36,12 +36,20 @@ That "500 backlinks for ₹1,500" gig? Those links come from link farms, hacked 
 
 Draw a hard line in your own head, because clients won't:
 
-| Earned / editorial (good) | Manufactured / paid (dangerous) |
-|---|---|
-| A blogger links because your guide is genuinely useful | You paid ₹500 for a "guest post" on a site that sells them by the dozen |
-| A supplier lists you as an authorised partner | You dropped your link in 200 blog comments |
-| Local press covers your free physio camp | You bought a "package" of directory submissions on a fiverr-style gig |
-| A club you sponsor thanks you with a link | You joined a "you link me, I link you" ring with ten strangers |
+<figure class="rr-fig">
+	<span class="rr-fig__title">Two ways a link lands on the internet</span>
+	<div class="rr-compare">
+		<div class="rr-compare__col rr-compare--a">
+			<h4><span class="rr-compare__tag rr-compare__tag--a">Good</span> Earned &amp; editorial</h4>
+			<ul><li>A blogger links because your guide is genuinely useful</li><li>A supplier lists you as an authorised partner</li><li>Local press covers your free physio camp</li><li>A club you sponsor thanks you with a link</li></ul>
+		</div>
+		<div class="rr-compare__col rr-compare--b">
+			<h4><span class="rr-compare__tag rr-compare__tag--b">Risk</span> Manufactured &amp; paid</h4>
+			<ul><li>You paid ₹500 for a "guest post" on a site that sells them by the dozen</li><li>You dropped your link in 200 blog comments</li><li>You bought a "package" of directory submissions on a fiverr-style gig</li><li>You joined a "you link me, I link you" ring with ten strangers</li></ul>
+		</div>
+	</div>
+	<figcaption class="rr-fig__cap">Same HTML tag, opposite outcomes. The whole difference is <em>why</em> the link exists.</figcaption>
+</figure>
 
 The tell is simple: **would this link exist if Google didn't?** If a real human put it there because it genuinely helps their reader, it's editorial. If it exists *only* to move rankings, it's the risky kind — and modern spam systems are frighteningly good at spotting the pattern.
 

@@ -40,6 +40,15 @@ Set expectations *below* what you're confident you can hit, then beat them. Say 
 
 The through-line: black-hat trades a small, temporary gain for a catastrophic, permanent risk — to the client's business *and* your name. You're building a career, not pulling a con. No "just this once" is worth your reputation.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">White-hat vs black-hat</span>
+	<div class="rr-dodont">
+		<div class="rr-do"><h4>✅ Do (white-hat)</h4><ul><li>Earn reviews from real, happy customers</li><li>Build links by being genuinely useful</li><li>Optimise the profile the honest way</li><li>Report every month — good news and bad</li></ul></div>
+		<div class="rr-dont"><h4>⛔ Don't (black-hat)</h4><ul><li>Buy links or join link schemes</li><li>Buy or fake reviews</li><li>Click-fraud a competitor's budget</li><li>Keyword-stuff, cloak, or build doorway pages</li></ul></div>
+	</div>
+	<figcaption class="rr-fig__cap">Same goal, opposite methods — one compounds your reputation, the other detonates it.</figcaption>
+</figure>
+
 :::tip[⚔️ War story]
 A boutique owner in a tier-2 city once told a freelancer, proudly, that her *previous* guy had "guaranteed #1 on Google in 30 days." He took a hefty fee up front, generated a flurry of spammy backlinks, showed her a screenshot of a #1 ranking for some obscure phrase nobody searched, and vanished. Two months later Google caught the link scheme and her real rankings *fell off a cliff* — worse than before she'd hired him — and she spent the next year, and more money, digging out. When the honest freelancer heard "guaranteed #1," she didn't need to hear anything else: **nobody can guarantee a Google ranking. Anyone who does is either lying or about to damage you.** That single red flag is one of the most useful things you can teach a client — and refusing to make that promise yourself is what marks you as the real professional.
 :::

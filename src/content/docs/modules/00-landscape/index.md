@@ -11,6 +11,16 @@ Right now, somewhere within five kilometres of you, a woman is thumbing "best de
 
 This module doesn't teach you to *do* anything yet. It teaches you to *see*. See how a typed query turns into money in a shop owner's till. See the three tools you'll wield to redirect that money. See the peculiar, mobile-first, WhatsApp-driven, "near me" reality of Indian local search — which is not America with different currency, it's its own game. And then you'll build your free lab so that by the next module you're armed and dangerous.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">What Module 0 hands you</span>
+	<div class="rr-stats">
+		<div class="rr-stat rr-stat--seo"><span class="rr-stat__num">3</span><span class="rr-stat__label">weapons: SEO · GA4 · Ads</span></div>
+		<div class="rr-stat rr-stat--good"><span class="rr-stat__num">₹0</span><span class="rr-stat__label">to build your whole lab</span></div>
+		<div class="rr-stat rr-stat--ads"><span class="rr-stat__num">8+</span><span class="rr-stat__label">free tools you'll wire up</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">Your Module 0 haul — orientation, not billing yet. Counts are the free tools this module sets up, not a performance claim.</figcaption>
+</figure>
+
 ## What you'll be able to charge for after this
 
 You won't be invoicing anyone off Module 0 alone — this is orientation, not a billable skill. But everything here is the foundation that lets you eventually charge for:

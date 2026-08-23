@@ -67,6 +67,15 @@ LinkedIn works for slightly larger local businesses, clinics, and B2B-ish niches
 Cold outreach is a scalpel, not a firehose. Personalise every message with a real observation, keep volume sane, make it genuinely easy to say "no thanks," and don't scrape-and-blast hundreds of identical messages — that's how you get your number blocked, your email flagged, and your reputation dented in a city where word travels. Respect people's time and inbox; it pays back.
 :::
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">Cold outreach: scalpel, not firehose</span>
+	<div class="rr-dodont">
+		<div class="rr-do"><h4>✅ Do</h4><ul><li>Personalise every message with a real pre-audit observation</li><li>Lead with free value, not your CV</li><li>Make one easy, low-pressure ask</li><li>Keep the volume sane and "no" easy to say</li></ul></div>
+		<div class="rr-dont"><h4>⛔ Don't</h4><ul><li>Scrape-and-blast hundreds of identical messages</li><li>Open with "Dear Sir/Madam, I am a digital marketing expert…"</li><li>Spam "HIRE ME" into every group</li><li>Send a wall of text nobody will read</li></ul></div>
+	</div>
+	<figcaption class="rr-fig__cap">A handful of researched, specific messages beats a firehose of generic ones — every time.</figcaption>
+</figure>
+
 ## 7. Content & personal brand (the long game)
 
 Posting useful local-marketing tips on Instagram/LinkedIn, a simple site, short "how your shop can show up on Google Maps" videos — this builds *inbound* interest so clients come to *you.* It's real and it compounds, but it's **slow**: months before it produces leads. Do it in the background, patiently. Don't rely on it for this month's rent.

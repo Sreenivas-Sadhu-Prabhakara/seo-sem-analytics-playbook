@@ -73,6 +73,15 @@ Decide the **single most valuable action** for each page — usually **call, Wha
 **The five-CTA page converts worse than the one-CTA page.** "Call us! Also email! Also fill this form! Also download our brochure! Also follow us on Instagram!" A confused visitor does nothing. Pick the one action that matters most and point everything at it.
 :::
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">One clear CTA — do vs don't</span>
+	<div class="rr-dodont">
+		<div class="rr-do"><h4>✅ Do</h4><ul><li>One primary action per page — call, WhatsApp <em>or</em> book</li><li>Put it above the fold on mobile, the number tap-to-call</li><li>Repeat the same CTA at the top <em>and</em> bottom of long pages</li><li>Match the page to the searcher's intent, then ask for the booking</li></ul></div>
+		<div class="rr-dont"><h4>⛔ Don't</h4><ul><li>Five competing buttons — call, email, form, brochure, Instagram</li><li>Bury the CTA below the fold (the war-story sin)</li><li>Demand a fourteen-field form where a WhatsApp tap would do</li><li>Hard-sell someone who searched an informational "how-to"</li></ul></div>
+	</div>
+	<figcaption class="rr-fig__cap">A confused visitor does nothing. Point everything at the single action that matters most.</figcaption>
+</figure>
+
 :::tip[🚀 Level up]
 **Farm "People also ask" with an FAQ section.** Search your target keyword and note the "People also ask" box — those are real questions Google surfaces. Answer 4–6 of them, honestly and concisely, in an FAQ block on the page (question as an H3, tight answer below). You capture long-tail informational searches, answering these well can sometimes earn a featured snippet (the answer box) or a slot in the "People also ask" list — no guarantee — and you answer the exact objections stopping someone from booking, all at once. Only add FAQ schema markup if the answers genuinely live on the page — and know that since August 2023 Google shows FAQ rich results only for authoritative government and health sites, so for a typical SMB the FAQ section's payoff is on-page (matching intent, pre-empting objections), not a SERP rich result.
 :::

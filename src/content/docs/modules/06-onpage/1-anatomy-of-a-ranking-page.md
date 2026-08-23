@@ -15,6 +15,19 @@ On-page fundamentals are the highest-leverage, lowest-effort work in SEO. You're
 
 Think of a web page as a skeleton. Here are the bones, most to least load-bearing.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">The on-page skeleton — bones by load-bearing weight</span>
+	<div class="rr-bars">
+		<div class="rr-bar rr-bar--seo"><span class="rr-bar__label">Title tag</span><span class="rr-bar__track"><span class="rr-bar__fill" style="--v:95%"></span></span><span class="rr-bar__val">High</span></div>
+		<div class="rr-bar rr-bar--seo"><span class="rr-bar__label">H1 &amp; heading outline</span><span class="rr-bar__track"><span class="rr-bar__fill" style="--v:78%"></span></span><span class="rr-bar__val">High</span></div>
+		<div class="rr-bar rr-bar--seo"><span class="rr-bar__label">Internal links</span><span class="rr-bar__track"><span class="rr-bar__fill" style="--v:58%"></span></span><span class="rr-bar__val">Medium</span></div>
+		<div class="rr-bar rr-bar--seo"><span class="rr-bar__label">URL slug</span><span class="rr-bar__track"><span class="rr-bar__fill" style="--v:52%"></span></span><span class="rr-bar__val">Medium</span></div>
+		<div class="rr-bar rr-bar--seo"><span class="rr-bar__label">Image alt text</span><span class="rr-bar__track"><span class="rr-bar__fill" style="--v:38%"></span></span><span class="rr-bar__val">Low</span></div>
+		<div class="rr-bar rr-bar--seo"><span class="rr-bar__label">Meta description</span><span class="rr-bar__track"><span class="rr-bar__fill" style="--v:30%"></span></span><span class="rr-bar__val">Clicks, not rank</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">Relative ranking weight — an illustrative shape, not measured percentages. The title tag is your biggest lever; the meta description earns clicks, not rank.</figcaption>
+</figure>
+
 ## The title tag — your single biggest lever
 
 The `<title>` is the clickable blue headline in Google's results and the text in the browser tab. It's the strongest on-page signal of what a page is about, and it drives whether anyone clicks. Get this one thing right and you've done more than most "SEO experts" who charge triple your rate.

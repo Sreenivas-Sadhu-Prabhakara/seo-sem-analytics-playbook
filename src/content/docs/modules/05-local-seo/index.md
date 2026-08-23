@@ -11,6 +11,16 @@ Here's the truth most beginners miss: for a dentist, a salon, a coaching centre 
 
 This is also where you, the freelancer, look like a genius fastest. On-page SEO and link building take months to move. A neglected Google Business Profile, cleaned up and optimised properly, can climb in **weeks** — sometimes days. Visible wins early buy you trust, and trust is what converts a one-off project into a monthly retainer.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">WHY LOCAL SEO PAYS FAST</span>
+	<div class="rr-stats">
+		<div class="rr-stat rr-stat--seo"><span class="rr-stat__num">3</span><span class="rr-stat__label">forces rank the map pack</span></div>
+		<div class="rr-stat rr-stat--good"><span class="rr-stat__num">₹0</span><span class="rr-stat__label">to claim the profile</span></div>
+		<div class="rr-stat"><span class="rr-stat__num">Weeks</span><span class="rr-stat__label">to a visible win, not months</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">The local-SEO pitch, boiled down — a free profile that can climb in weeks.</figcaption>
+</figure>
+
 ## What you'll be able to charge for after this
 
 - **Google Business Profile optimisation** — a one-time setup-and-fix engagement (claim, categories, photos, services, description) that delivers a fast, visible before/after.

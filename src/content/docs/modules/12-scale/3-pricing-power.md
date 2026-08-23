@@ -50,6 +50,15 @@ Not all revenue is worth having. Some clients pay you a modest fee and extract a
 
 One red flag might be a bad month. A *pattern* is a bad client. And a bad client isn't just unpleasant — they're expensive, because every hour and gram of energy spent on them is stolen from a good client (or from finding one).
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">Raise rates, fire the wrong clients</span>
+	<div class="rr-dodont">
+		<div class="rr-do"><h4>✅ Do</h4><ul><li>Raise the rate as your proof stacks up — fixed date, tied to their results, no grovelling</li><li>Charge on the outcome (patients, bookings), never on the hour</li><li>Keep the clients who respect your advice and pay on time</li><li>Let a bad-fit client go calmly once a pipeline makes it optional</li></ul></div>
+		<div class="rr-dont"><h4>⛔ Don't</h4><ul><li>Cling to the haggler who treats your price as an opening bid</li><li>Absorb the weekly "while you're at it…" scope-creeper for free</li><li>Tolerate midnight messages and blame from the disrespectful one</li><li>Keep chasing the can't-pay who uses you as their bank</li></ul></div>
+	</div>
+	<figcaption class="rr-fig__cap">One red flag is a bad month; a pattern is a bad client — and letting one go usually raises your income.</figcaption>
+</figure>
+
 :::tip[⚔️ War story]
 A freelancer we'll call Priya took on a boutique owner who haggled her fee down by a third before they'd even started — "you're new, na, treat it as portfolio." Priya said yes; work is work. That client then messaged daily, demanded rankings in two weeks, "just quickly" asked for Instagram posts and flyer designs outside any scope, disputed the invoice twice, and paid forty days late. Priya spent more hours on that one discounted account than on her two full-price clients combined — and turned down a good referral for lack of time. When she finally, politely, let the client go, her income went *up*, because she filled the space with someone who valued her. **The cheapest client cost her the most.**
 :::

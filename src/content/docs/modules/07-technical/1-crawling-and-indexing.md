@@ -17,6 +17,16 @@ Half the "why aren't we ranking?" emergencies you'll be hired for aren't ranking
 
 Three steps, and a page must survive all three to show up in search.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">The path a page takes to search</span>
+	<ol class="rr-steps">
+		<li><b>Crawl</b> — <span>Googlebot follows a link and fetches the page's raw code.</span></li>
+		<li><b>Render</b> — <span>Google runs the page like a browser, executing the JavaScript, to see the finished page.</span></li>
+		<li><b>Index</b> — <span>Google files that page in the searchable library. Only indexed pages can rank.</span></li>
+	</ol>
+	<figcaption class="rr-fig__cap">Miss any one step and the page never shows up in search.</figcaption>
+</figure>
+
 1. **Crawl.** Googlebot follows links and fetches your page's raw code — like a delivery guy arriving at your door. If he can't find the address (no links point to it) or you've locked the gate (`robots.txt`), he leaves.
 2. **Render.** Google runs the page like a browser does, executing the JavaScript, to see the *finished* page a human would. Matters on sites where content only appears after scripts run.
 3. **Index.** Google stores the page, understands what it's about, and files it in the library it searches when someone types a query. **Only indexed pages can rank.** Everything else is invisible.

@@ -23,6 +23,18 @@ Every metric an SMB owner cares about sits somewhere on this chain:
 
 Your SEO and Ads work lives at the left end. The owner's bank account lives at the right end. Vanity metrics are the ones that stall on the left and never connect to the right. Money metrics are the ones as far right as you can honestly measure.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">THE OWNER'S CHAIN — IT NARROWS AS IT GETS REAL</span>
+	<div class="rr-funnel">
+		<div class="rr-funnel__step" style="--w:100%"><b>Visibility</b><span>impressions, positions — your end</span></div>
+		<div class="rr-funnel__step" style="--w:72%"><b>Traffic</b><span>sessions, clicks to the site</span></div>
+		<div class="rr-funnel__step" style="--w:46%"><b>Leads</b><span>calls, WhatsApp, form fills</span></div>
+		<div class="rr-funnel__step" style="--w:28%"><b>Customers</b><span>enquiries that booked</span></div>
+		<div class="rr-funnel__step" style="--w:16%"><b>Revenue</b><span>the owner's bank account</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">Illustrative shape — widths show the natural narrowing, not real counts. Vanity metrics stall on the left; money metrics live on the right.</figcaption>
+</figure>
+
 | Owner-language (money) | Marketer-language (means) | Where you get it |
 |---|---|---|
 | Phone calls | `tel:` link taps, GBP calls | GA4 key events, GBP insights |

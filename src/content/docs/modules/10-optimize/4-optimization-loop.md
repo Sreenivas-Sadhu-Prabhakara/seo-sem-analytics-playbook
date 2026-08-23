@@ -11,16 +11,16 @@ The freelancer who *keeps* the retainer for two years does something almost bori
 
 ## The loop, in four beats
 
-```
-REVIEW → HYPOTHESISE → CHANGE ONE THING → MEASURE
-        ↑                                    ↓
-        └──────────── (repeat) ──────────────┘
-```
-
-1. **Review** — open the three tools, read what changed since last time.
-2. **Hypothesise** — pick *one* clear "I think if we do X, Y will improve because Z."
-3. **Change one thing** — make that single change. Not ten. One.
-4. **Measure** — give it time, then check whether Y actually moved. Feed the answer back into next week's review.
+<figure class="rr-fig">
+	<span class="rr-fig__title">THE WEEKLY LOOP, IN FOUR BEATS</span>
+	<ol class="rr-steps">
+		<li><b>Review</b> — <span>open the three tools, read what changed since last time.</span></li>
+		<li><b>Hypothesise</b> — <span>pick <em>one</em> clear "I think if we do X, Y will improve because Z."</span></li>
+		<li><b>Change one thing</b> — <span>make that single change. Not ten. One.</span></li>
+		<li><b>Measure</b> — <span>give it time, then check whether Y moved — the answer feeds back into next week's Review.</span></li>
+	</ol>
+	<figcaption class="rr-fig__cap">Four beats, then straight back to Review — the same rhythm every week.</figcaption>
+</figure>
 
 The cadence that works for an SMB: a **light weekly check** (15–20 minutes — is anything on fire, any quick win?) and a **deeper monthly review** (an hour — trends, the report, the bigger moves). Weekly keeps you from missing a broken tag or a runaway ad; monthly is where the strategy lives.
 

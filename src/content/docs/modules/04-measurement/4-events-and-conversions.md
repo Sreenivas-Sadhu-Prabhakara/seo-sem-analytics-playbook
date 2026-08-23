@@ -61,6 +61,15 @@ Different actions need different mechanisms. Be precise here — this is where s
 **Counting pageviews as success is the amateur's favourite lie.** "Traffic is up 60%!" sounds great and means nothing if calls and WhatsApp taps are flat. Plenty of freelancers report sessions and pageviews because they're easy and always look busy. Pageviews are an *input*; conversions are the *output*. If your report leads with pageviews, you're either a beginner or hoping the client is. Lead with the money-actions.
 :::
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">LEAD WITH MONEY, NOT VANITY</span>
+	<div class="rr-dodont">
+		<div class="rr-do"><h4>✅ Do</h4><ul><li>Lead the report with phone clicks, WhatsApp taps, form submits and directions</li><li>Mark each money-action as a key event so it actually counts</li><li>Judge success by conversions — the actions that become patients</li></ul></div>
+		<div class="rr-dont"><h4>⛔ Don't</h4><ul><li>Headline "traffic up 60%!" while calls and WhatsApp taps stay flat</li><li>Report sessions and pageviews because they're easy and always look busy</li><li>Celebrate readers three cities away who'll never walk in</li></ul></div>
+	</div>
+	<figcaption class="rr-fig__cap">The 60% is illustrative — the real point is that pageviews are an input, conversions the output.</figcaption>
+</figure>
+
 :::tip[⚔️ War story]
 A composite freelancer proudly told a gym owner "organic traffic doubled." The owner checked his front desk: same trial bookings as before. The traffic was real — but it ranked for a blog post ("benefits of morning workouts") pulling readers three cities away who'd never join a Bengaluru gym. No conversion tracking meant three months celebrating a vanity number. With `phone_click` and form conversions live from day one, he'd have seen flat conversions in week two and pivoted to local, buyer-intent keywords. Measurement isn't just proof — it's a steering wheel.
 :::

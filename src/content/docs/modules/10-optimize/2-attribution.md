@@ -33,6 +33,21 @@ GA4's default model is now **data-driven attribution (DDA)**. Instead of dumbly 
 
 Here's the honest bit, because this course doesn't oversell: DDA is a genuine improvement over last-click, but it's still a model — an estimate — and it needs a reasonable amount of conversion data to work well. On a clinic getting a handful of conversions a week, treat DDA's splits as *directional*, not precise. It's better than last-click. It is not a truth machine. Don't quote its decimals to a client as if they were measured with a ruler.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">TWO WAYS TO SPLIT THE CREDIT</span>
+	<div class="rr-compare">
+		<div class="rr-compare__col rr-compare--a">
+			<h4><span class="rr-compare__tag rr-compare__tag--a">Last-click</span> Winner-takes-all</h4>
+			<ul><li>100% of the credit to the final touchpoint</li><li>Blind to everything that happened before it</li><li>Tempts you to defund the channel that <em>started</em> the journey</li></ul>
+		</div>
+		<div class="rr-compare__col rr-compare--b">
+			<h4><span class="rr-compare__tag rr-compare__tag--b">Data-driven</span> Credit shared</h4>
+			<ul><li>Splits credit across the touchpoints</li><li>Learns from your account's own conversion patterns</li><li>Better than last-click — still a model, directional on low volume</li></ul>
+		</div>
+	</div>
+	<figcaption class="rr-fig__cap">Same patient journey, two rulebooks — and they point your budget in different directions.</figcaption>
+</figure>
+
 ## Assist interactions: the invisible teamwork
 
 The concept that fixes your thinking is the **assist**. An assist is a touchpoint that helped along the way but wasn't the final click. In GA4 you can look at conversion paths (Advertising → Attribution, or via an Exploration) and see channels that *assisted* rather than closed.

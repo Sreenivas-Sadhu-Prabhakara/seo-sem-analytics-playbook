@@ -9,6 +9,16 @@ You open GA4 for Meena's Dental Clinic on a Monday morning, coffee in hand, read
 
 This is where most freelancers quietly close the tab and go back to guessing. Don't. GA4 is genuinely a bit of a maze, but a local business only needs about **four rooms in it**. Learn those four and you can read any SMB account in ten minutes. The rest of the maze is for e-commerce giants and app companies. You can ignore it with a clear conscience.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">THE GA4 MAZE, CUT DOWN TO SIZE</span>
+	<div class="rr-stats">
+		<div class="rr-stat rr-stat--seo"><span class="rr-stat__num">4</span><span class="rr-stat__label">rooms an SMB actually uses</span></div>
+		<div class="rr-stat"><span class="rr-stat__num">~40</span><span class="rr-stat__label">reports you can skip guilt-free</span></div>
+		<div class="rr-stat rr-stat--good"><span class="rr-stat__num">10 min</span><span class="rr-stat__label">to read a whole account</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">Illustrative — the four rooms this lesson opens; the rest of the maze is for e-commerce giants.</figcaption>
+</figure>
+
 ## First, the one mental shift: GA4 counts events, not pageviews
 
 :::note[🎓 Foundations]

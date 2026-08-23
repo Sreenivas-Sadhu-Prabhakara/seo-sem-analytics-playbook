@@ -24,6 +24,16 @@ Every query leans toward one of four intents:
 | **Commercial** (investigation) | To compare before buying | "best dentist in jayanagar," "root canal cost" | Service page, reviews, comparison |
 | **Transactional** | To act *now* | "book dentist appointment near me," "emergency dentist open now" | Service page + booking / call, ads |
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">The intent value ladder</span>
+	<div class="rr-pyramid">
+		<div class="rr-pyramid__row"><b>Transactional</b><span>act now — wallet already out, highest value</span></div>
+		<div class="rr-pyramid__row"><b>Commercial</b><span>comparing options before buying</span></div>
+		<div class="rr-pyramid__row"><b>Informational</b><span>just learning — biggest audience, slowest to convert</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">Illustrative shape. The wide base is the biggest audience but the slowest to buy; the narrow top is fewer searchers with their wallet out — width is relative readiness, not search volume. (Navigational sits outside this ladder — they already know your brand.)</figcaption>
+</figure>
+
 And the one that reshapes everything for local SMBs:
 
 - **Local intent** — the searcher wants something *near them, now*. "Dentist near me," "gym close by," "biryani home delivery." Google often infers this even without the words "near me," using the user's location. Local intent usually rides on top of commercial or transactional intent and points hard at your **Google Business Profile** and Maps, not just the website.

@@ -13,6 +13,18 @@ So we're doing the scary part first. On purpose.
 
 This module is the prospecting-and-closing stage of a real freelance gig — and it comes before all the "real" SEO because selling is the skill everyone avoids, which makes it the skill that pays. Get this right and the rest of the course has a *reason to exist*: a real client, a real problem, real money on the line. Get this wrong and you're just a very well-read hobbyist.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">The gig, start to finish</span>
+	<ol class="rr-steps">
+		<li><b>Prospect</b> — <span>spot a local business with a visible, fixable problem</span></li>
+		<li><b>Pre-audit</b> — <span>15 minutes that hand you something true to say</span></li>
+		<li><b>Pitch</b> — <span>lead with the insight, never with "hire me"</span></li>
+		<li><b>Proposal</b> — <span>one page: their problem, your plan, your price</span></li>
+		<li><b>Close</b> — <span>a signed scope agreement, and your first client</span></li>
+	</ol>
+	<figcaption class="rr-fig__cap">The shape of this whole module — five moves from stranger to signed client.</figcaption>
+</figure>
+
 The whole course runs on one idea — **get paid before you get perfect.** You do not need to be an expert to help a local dentist who doesn't even show up on Google Maps. You need to be *slightly ahead* of them and willing to do the work. That's the entire job.
 
 ## What you'll be able to charge for after this

@@ -13,6 +13,16 @@ This module is where you become worth paying. An audit tells the owner what's *w
 
 The backbone of all of it is **keyword research** — figuring out the exact words your client's customers type into Google at the moment they're ready to spend. Get that right and every later module (the on-page work, the local SEO, the ads) has a target to aim at. Get it wrong and you'll rank beautifully for words nobody searches.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">This module at a glance</span>
+	<div class="rr-stats">
+		<div class="rr-stat rr-stat--seo"><span class="rr-stat__num">2–3</span><span class="rr-stat__label">moves that actually matter (not 30)</span></div>
+		<div class="rr-stat rr-stat--good"><span class="rr-stat__num">90-day</span><span class="rr-stat__label">plan an owner signs in one reading</span></div>
+		<div class="rr-stat rr-stat--ads"><span class="rr-stat__num">4–9</span><span class="rr-stat__label">later modules this roadmap drives</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">The shape of a strategy: pick a few moves, sequence them, and let everything after trace back here.</figcaption>
+</figure>
+
 ## What you'll be able to charge for after this
 
 - A **paid strategy / roadmap** as a standalone deliverable — many freelancers give this away; you'll learn to sell it as the first, trust-building engagement.

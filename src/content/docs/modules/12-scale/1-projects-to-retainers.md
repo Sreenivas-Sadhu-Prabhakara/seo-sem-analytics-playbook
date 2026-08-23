@@ -48,6 +48,18 @@ The pitch isn't a hard sell; it's a diagnosis. You've just handed over results, 
 
 The logic you're walking her through: (1) These wins are real but fragile — competitors are also fighting for that local pack, and Google keeps changing. (2) The compounding hasn't even started yet; months 4–12 are where the real growth is. (3) It costs far less to *keep* a customer ranking than to rescue them after they've slid. Then you name the plan and the price.
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">The project → retainer flip</span>
+	<ol class="rr-steps">
+		<li><b>Deliver the win</b> — <span>the Maps calls in her GA4 are live proof the work is real. The room is warm.</span></li>
+		<li><b>Name the risk</b> — <span>stop maintaining it and the rankings quietly slide back; rescuing later costs more than keeping it now.</span></li>
+		<li><b>Point at the compounding</b> — <span>months 4–12 are usually where the real growth lands — more pages, more reviews, more bookings.</span></li>
+		<li><b>Propose the monthly plan</b> — <span>a defined scope that keeps everything running and growing, priced in her terms.</span></li>
+		<li><b>Set the term</b> — <span>ask for a 6-month runway, because that's honestly how long SEO needs to show its full hand.</span></li>
+	</ol>
+	<figcaption class="rr-fig__cap">A diagnosis, not a hard sell — each step is protecting the asset you just built. "Months 4–12" is the usual shape, not a promise.</figcaption>
+</figure>
+
 :::note[📋 Swipe this]
 **The project → retainer transition (say this, or WhatsApp it):**
 

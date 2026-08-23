@@ -59,6 +59,16 @@ The beauty of productised offers is that they're brilliant **on-ramps**. A stran
 **Tiered retainers — good / better / best.** Once you've got a couple of retainer clients, package the retainer itself into three tiers instead of one custom quote. A **Local** tier (Profile upkeep + reviews + report), a **Growth** tier (adds content + on-page work), and a **Growth + Ads** tier (adds full Ads management). Three named tiers do two magic things: they let the client choose *how much* rather than *whether* (the answer shifts from yes/no to which-one), and the middle tier becomes the obvious "sensible" pick — most people avoid the cheapest and the priciest. You anchor high, sell the middle, and never haggle line-by-line again.
 :::
 
+<figure class="rr-fig">
+	<span class="rr-fig__title">Good / better / best — three tiers, one menu</span>
+	<div class="rr-bars">
+		<div class="rr-bar rr-bar--seo"><span class="rr-bar__label">Local</span><span class="rr-bar__track"><span class="rr-bar__fill" style="--v:45%"></span></span><span class="rr-bar__val">Keep-the-lights-on</span></div>
+		<div class="rr-bar rr-bar--seo"><span class="rr-bar__label">Growth</span><span class="rr-bar__track"><span class="rr-bar__fill" style="--v:72%"></span></span><span class="rr-bar__val">Most pick this</span></div>
+		<div class="rr-bar rr-bar--ads"><span class="rr-bar__label">Growth + Ads</span><span class="rr-bar__track"><span class="rr-bar__fill" style="--v:100%"></span></span><span class="rr-bar__val">Full</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">Illustrative relative scope, not prices — the question shifts from "whether" to "which", and the middle tier becomes the obvious pick.</figcaption>
+</figure>
+
 :::note[💰 Rupee check]
 **Illustrative only — verify current rates.** Productised packs are typically priced as one-time fixed fees scaled to effort: a small GBP setup pack sits at the lower end, a multi-page SEO refresh or an Ads setup sprint higher, a website-related project higher still. The point of a fixed price isn't to be the cheapest — it's to be *predictable*, so the client buys without a negotiation and you profit more each time you run the same play. Price for the value and your improving speed, not the hours of your first nervous attempt.
 :::
