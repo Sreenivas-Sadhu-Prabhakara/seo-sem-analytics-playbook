@@ -28,7 +28,10 @@ jobs:
         # Official Astro action: detects npm, runs `astro build`,
         # and uploads ./dist as the GitHub Pages artifact.
         # `site` and `base` come from astro.config.mjs.
+        # Astro 7 requires Node >= 22.12; pin it (CI defaults to 20).
         uses: withastro/action@v3
+        with:
+          node-version: 22
 
   deploy:
     needs: build
