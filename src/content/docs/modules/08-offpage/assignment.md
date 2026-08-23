@@ -68,4 +68,4 @@ Aim for "Client-ready" in every row. If any row is still "Missing," that's your 
 
 ## How this feeds your capstone
 
-Authority compounds. On-page you fixed once; this plan you'll run for months, and even a handful of real local links plus a tidy, monitored reputation measurably moves a small business in a competitive local market. This document becomes a live workstream in your capstone engagement — and a portfolio centrepiece that proves you can build authority the durable, penalty-proof way. That's exactly the work clients keep paying for.
+Authority compounds. On-page you fixed once; this plan you'll run for months, and even a handful of real local links plus a tidy, monitored reputation measurably moves a small business in a competitive local market. This document becomes a live workstream in your capstone engagement — and a portfolio centrepiece that proves you can build authority the durable, low-risk way. That's exactly the work clients keep paying for.

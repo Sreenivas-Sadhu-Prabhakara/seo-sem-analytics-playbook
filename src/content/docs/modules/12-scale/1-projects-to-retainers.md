@@ -36,7 +36,7 @@ The retainer can't be vague ("I'll do… SEO stuff") or the client feels robbed 
 | **Ads management** (if running) | Budget pacing, negative keywords, ad tests, landing-page tweaks |
 | **Reporting** | The monthly report from Module 11 — plain-language, tied to calls and bookings, not vanity rankings |
 
-You don't have to include all of it. Pick a scope that matches the price and *write it down*. The written scope is what protects you from scope creep later (Module 3's lesson on scope was not a suggestion).
+You don't have to include all of it. Pick a scope that matches the price and *write it down*. The written scope is what protects you from scope creep later (Module 1's lesson on scope was not a suggestion).
 
 :::caution[⚠️ Gotcha]
 Don't sell a retainer as "unlimited access to me." Hagglers will read that as "I can WhatsApp you at 11pm about my nephew's Instagram." Sell a **defined monthly scope** — hours or deliverables — with a clear line for what's extra. "Up to X hours or these deliverables per month; anything beyond is quoted separately." Boundaries are a feature, not rudeness.

@@ -74,7 +74,7 @@ Decide the **single most valuable action** for each page — usually **call, Wha
 :::
 
 :::tip[🚀 Level up]
-**Farm "People also ask" with an FAQ section.** Search your target keyword and note the "People also ask" box — those are real questions Google surfaces. Answer 4–6 of them, honestly and concisely, in an FAQ block on the page (question as an H3, tight answer below). You capture long-tail informational searches, you often earn a rich snippet, and you answer the exact objections stopping someone from booking — all at once. Only add FAQ schema markup if the answers genuinely live on the page.
+**Farm "People also ask" with an FAQ section.** Search your target keyword and note the "People also ask" box — those are real questions Google surfaces. Answer 4–6 of them, honestly and concisely, in an FAQ block on the page (question as an H3, tight answer below). You capture long-tail informational searches, answering these well can sometimes earn a featured snippet (the answer box) or a slot in the "People also ask" list — no guarantee — and you answer the exact objections stopping someone from booking, all at once. Only add FAQ schema markup if the answers genuinely live on the page — and know that since August 2023 Google shows FAQ rich results only for authoritative government and health sites, so for a typical SMB the FAQ section's payoff is on-page (matching intent, pre-empting objections), not a SERP rich result.
 :::
 
 ## Common mistakes

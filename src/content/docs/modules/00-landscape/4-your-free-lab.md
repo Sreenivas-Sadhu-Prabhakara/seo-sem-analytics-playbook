@@ -50,6 +50,7 @@ Keyword Planner technically lives inside a **Google Ads** account, and Google nu
 Work down this list and tick each box. This *is* part of your Assignment groundwork.
 
 - [ ] Create a dedicated Google account for freelance work.
+- [ ] Open **Google Business Profile** and reach the create/claim-a-business screen (you'll attach a real business in Module 5 — for now just confirm you can get in).
 - [ ] Sign in to **Google Analytics** and see the "create a property" screen (don't need a site yet — just get in).
 - [ ] Sign in to **Google Search Console**.
 - [ ] Create a **Google Ads** account *without* launching a paid campaign; find **Keyword Planner**.

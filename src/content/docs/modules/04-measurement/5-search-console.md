@@ -57,7 +57,7 @@ This is the report you'll open weekly. It shows, for real Google searches, four 
 - **CTR (click-through rate)** — clicks ÷ impressions, as a %. How compelling your listing is *once shown*.
 - **Average position** — the site's average ranking spot for that query (1 = top). Lower is better.
 
-Read together: *high impressions + low CTR* means "Google shows you but nobody clicks" (usually a weak title/meta, or you rank on page 2). *High position + low clicks* means the demand just isn't there. Each pattern points to a different fix.
+Read together: *high impressions + low CTR* means "Google shows you but nobody clicks" (usually a weak title/meta, or you rank on page 2). *A top-3 ranking (position 1–3) + low clicks* means the demand just isn't there — you rank well, but almost nobody searches that query. Each pattern points to a different fix.
 :::
 
 ### Finding wins in the Queries report

@@ -11,7 +11,7 @@ Small budgets don't fail because they're small. They fail because they're *diffu
 
 ## Why this pays
 
-Any agency can spend ₹5 lakh a month and get results — the volume hides the waste. Making a *small* budget work is the harder, rarer skill, and it's exactly what local SMBs need. Prove you can turn ₹10,000 into measurable leads and you'll never lack for clients, because that's the budget most of India's small businesses actually have. Discipline with a small budget is your differentiator.
+Any agency can spend ₹5 lakh a month and get results — the volume hides the waste. Making a *small* budget work is the harder, rarer skill, and it's exactly what local SMBs need. Prove you can turn ₹10,000 into measurable leads and you'll rarely struggle to find clients who want it, because that's a realistic budget for many small businesses in India. Discipline with a small budget is your differentiator.
 
 ## Daily budget vs the monthly reality
 
@@ -29,7 +29,7 @@ Warn the client *before* launch about the up-to-2×-per-day behaviour, in writin
 
 A modest budget wins by being narrow on purpose. Pull all four levers:
 
-1. **Fewer keywords.** Back your 5–8 highest-intent keywords, not thirty maybes. Depth beats breadth — you want enough spend per keyword to actually learn.
+1. **Fewer keywords.** Back your 5–8 highest-intent keywords per ad group, not thirty maybes. Depth beats breadth — you want enough spend per keyword to actually learn.
 2. **Tight geography.** Don't advertise across Bengaluru if the clinic serves Jayanagar and two adjacent areas. Every rupee spent on a distant searcher who won't travel is wasted.
 3. **The right hours (ad scheduling).** If enquiries are answered 9am–8pm, consider concentrating spend there — a click at 3am that rings an unanswered phone is a donation. (Restrict hours only once data shows when conversions happen; don't guess on day one.)
 4. **The right devices and audiences, once you know them.** If mobile converts far better later, lean into it. Early on, keep it simple.

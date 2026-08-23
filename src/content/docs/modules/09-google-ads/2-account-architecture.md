@@ -71,9 +71,9 @@ Account: [Client Name]
 ├── Campaign: Search — [Core Service] — [City]
 │     Settings: geo = [city + radius], schedule = business hours,
 │               budget = ₹[daily], bid = Maximize Clicks (to start)
-│     ├── Ad group: [Service theme A]   → 3–8 tight keywords + 1 RSA
-│     ├── Ad group: [Service theme B]   → 3–8 tight keywords + 1 RSA
-│     └── Ad group: [Service theme C]   → 3–8 tight keywords + 1 RSA
+│     ├── Ad group: [Service theme A]   → 5–8 tight keywords + 1 RSA
+│     ├── Ad group: [Service theme B]   → 5–8 tight keywords + 1 RSA
+│     └── Ad group: [Service theme C]   → 5–8 tight keywords + 1 RSA
 │
 ├── Shared: Negative keyword list ("free", "jobs", "cheap", other cities…)
 └── Conversion actions: Call, Form submit, WhatsApp click (imported from GA4)

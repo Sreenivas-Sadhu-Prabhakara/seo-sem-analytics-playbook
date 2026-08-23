@@ -18,9 +18,9 @@ Produce a fully-built Search campaign a paying client would accept, plus a one-p
 Work through these in order — each builds on the last:
 
 1. **Pick the target.** Choose the single service most worth advertising (lesson 1) and confirm the maths works — high enough intent and margin to justify paid clicks.
-2. **Choose high-intent keywords.** 5–8 tight, ready-to-buy keywords, in **phrase and exact** match to start (lesson 3). Group them into 1–3 single-theme ad groups.
+2. **Choose high-intent keywords.** 5–8 tight, ready-to-buy keywords **per ad group**, in **phrase and exact** match to start (lesson 3). Group them into 2–4 single-theme ad groups.
 3. **Set the geography.** A small radius or specific localities — only where the client actually serves (lesson 5). Add neighbouring areas they *don't* serve as negatives.
-4. **Structure the campaign.** One campaign, 1–3 tightly-themed ad groups, named in the `Search — Service — City` pattern (lesson 2).
+4. **Structure the campaign.** One campaign, 2–4 tightly-themed ad groups, named in the `Search — Service — City` pattern (lesson 2).
 5. **Write the ads.** One RSA per ad group — at least 8 varied headlines (benefit / intent / local / CTA) and 3 descriptions (lesson 4). Check message match to the keyword and the landing page.
 6. **Add assets.** Sitelinks, callouts, and — for any local business — a **call asset** at minimum; add location if there's a storefront (lesson 4).
 7. **Set negatives.** Apply your negative-keyword list (start from the swipe list in lesson 3, add client-specific junk).
@@ -54,7 +54,7 @@ Grade yourself honestly against each criterion:
 | Criterion | Missing | Getting there | Client-ready |
 |---|---|---|---|
 | **Tight structure** | One ad group holding everything | Themed ad groups, loose naming | Single-theme ad groups, consistent `Search — Service — City` naming |
-| **High-intent keywords + negatives** | Broad, vague keywords; no negatives | Decent keywords, thin negative list | 5–8 high-intent phrase/exact keywords + a real negative list (junk, jobs, wrong areas) |
+| **High-intent keywords + negatives** | Broad, vague keywords; no negatives | Decent keywords, thin negative list | 5–8 high-intent phrase/exact keywords per ad group + a real negative list (junk, jobs, wrong areas) |
 | **Strong RSAs + assets** | 1–2 repetitive headlines, no assets | Several headlines, some assets | 8+ varied headlines across angles, 3+ descriptions, message-matched, key assets incl. call |
 | **Conversion tracking wired** | None — spending blind | Tracking set up but untested | GA4 key events imported as conversions, test action confirmed registering |
 | **Sensible budget & landing page** | Whole-city geo, homepage, random bid strategy | Reasonable budget, generic page | Tight geo, `monthly÷30.4` daily budget + max-CPC cap, Maximize Clicks, fast message-matched landing page |

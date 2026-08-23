@@ -11,7 +11,7 @@ This is the most common paid-ads state you'll find at a small business: money on
 
 ## Why this pays
 
-Two reasons. First, wasted ad spend is the easiest ROI story in freelancing: "you're spending ₹40,000 a month and can't tell me if it works — I can fix that in week one" is nearly impossible to say no to. Second, the competitor read tells you and the client exactly what you're up against, which sizes the opportunity honestly. Modules 9 and 10 go deep on running and optimising ads; here you're the diagnostician sizing the problem and spotting the quick wins.
+Two reasons. First, wasted ad spend is the easiest ROI story in freelancing: "you're spending ₹40,000 a month and can't tell me if it works — I can fix that in week one" is nearly impossible to say no to. Second, the competitor read tells you and the client exactly what you're up against, which sizes the opportunity honestly. Module 9 goes deep on running and optimising ads; here you're the diagnostician sizing the problem and spotting the quick wins.
 
 ## Are they running Google Ads — and bleeding money?
 

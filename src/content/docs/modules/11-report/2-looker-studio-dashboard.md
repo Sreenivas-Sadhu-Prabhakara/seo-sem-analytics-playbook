@@ -22,7 +22,7 @@ A live dashboard makes you look like an agency for the price of an afternoon. It
 The magic is that Google's own tools plug straight in with first-party connectors — no dodgy middleware. In a new Looker Studio report, "Add data" and pick:
 
 - **Google Analytics** → the client's **GA4** property. This is your leads engine: conversions, channels, top pages.
-- **Search Console** → the client's verified property. Two flavours exist — *Site* (impressions, clicks, position by query/page) and *URL* (by landing page). You'll usually want the Site table for queries. This is your organic-visibility source.
+- **Search Console** → the client's verified property. Two tables exist — *Site Impression* gives you queries (with impressions, clicks, CTR, average position) but not landing pages, and *URL Impression* gives you landing pages but not queries. You can't combine query and page in one table, so use the Site table for your queries tile. This is your organic-visibility source.
 - **Google Ads** → the client's Ads account. Spend, clicks, conversions, cost per conversion.
 
 :::caution[⚠️ Gotcha]

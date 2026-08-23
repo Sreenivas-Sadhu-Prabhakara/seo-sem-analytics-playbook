@@ -45,7 +45,7 @@ A large share of Indian SMB sites run WordPress. Its superpower is plugins; its 
 These hosted, closed platforms have come a long way. Modern **Wix** exposes proper SEO controls — editable titles and meta, an auto-generated sitemap, per-page index toggles, and a setup checklist. **Shopify** gives per-product and per-collection meta fields, an auto sitemap, and handles the technical bones competently. But know the fences:
 
 - **You work within the platform, not around it.** You generally can't freely hand-edit `robots.txt` (Shopify controls it), can't restructure URLs arbitrarily (Shopify pins `/products/`, `/collections/` paths), and can't make server-level tweaks. What you get is the fields they give you — for most SMBs, plenty.
-- **Shopify's duplicate-URL quirk.** Products are reachable via multiple paths and tag/filter pages can spawn thin duplicates. Shopify sets canonicals to help, but keep an eye on it (the canonical work from lessons 1 and 4).
+- **Shopify's duplicate-URL quirk.** Products are reachable via multiple paths and tag/filter pages can spawn thin duplicates. Shopify sets canonicals to help, but keep an eye on it (the canonical work from lesson 1).
 
 A "closed/hosted" platform (Wix, Shopify, Dukaan) runs the servers and hands you a fixed set of controls; "open/self-hosted" (WordPress, hand-coded) gives you everything — more power, more ways to break it. Neither is "better"; the real question is what *this client* can maintain. An owner who'll never touch code is often better served by a tidy Wix site than a powerful WordPress install they can't manage.
 

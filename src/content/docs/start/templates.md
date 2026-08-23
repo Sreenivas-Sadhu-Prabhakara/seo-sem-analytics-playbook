@@ -33,7 +33,7 @@ Module names are indicative — follow your sidebar for exact titles. Each templ
 | **Citation checklist** | Consistent NAP across India directories | Module 5 |
 | **On-page checklist** | Titles, metas, headings, internal links | Module 6 — On-page |
 | **Service-page template** | The structure of a page that ranks and converts | Module 6 |
-| **Technical fix checklist** | Speed, mobile, schema, crawl issues | Module 8 — Technical |
+| **Technical fix checklist** | Speed, mobile, schema, crawl issues | Module 7 — Technical |
 | **Negative-keyword starter list** | Blocking junk clicks from day one | Module 9 — Google Ads |
 | **RSA headline bank** | Ready-to-adapt Responsive Search Ad headlines | Module 9 |
 | **Monthly report template** | The recurring deliverable that keeps you retained | Module 11 — Reporting *(full version below)* |
@@ -124,6 +124,7 @@ us a lot — 30 seconds here: [review link]. Thank you!
 ```
 
 **For the owner, to say in person at checkout:**
+```
 "If you were happy today, would you mind leaving us a quick Google
 review? I'll send you the link on WhatsApp — it really helps us."
 ```

@@ -1,11 +1,11 @@
 ---
-title: "Posts, Q&A, Products & Messaging"
-description: Keep a Google Business Profile alive and converting with Posts, Q&A, product listings, messaging and the performance insights.
+title: "Posts, Q&A, Products & Insights"
+description: Keep a Google Business Profile alive and converting with Posts, Q&A, product listings and the performance insights.
 sidebar:
   order: 5
 ---
 
-A fully optimised profile is a car with a full tank. Posts, Q&A, products and messaging are actually *driving* it. This is where a static "we exist" listing becomes a living shopfront that publishes offers, answers questions before they're asked, and turns a search into a WhatsApp message or a booking. It's also — conveniently for you — the part that's naturally **ongoing**, which is exactly what a monthly retainer is made of.
+A fully optimised profile is a car with a full tank. Posts, Q&A and products are actually *driving* it. This is where a static "we exist" listing becomes a living shopfront that publishes offers, answers questions before they're asked, and turns a search into a WhatsApp message or a booking. It's also — conveniently for you — the part that's naturally **ongoing**, which is exactly what a monthly retainer is made of.
 
 Set-and-forget profiles slide down the rankings over time; active ones hold and climb. Google favours businesses that behave like they're open, engaged and paying attention. So let's give it that.
 
@@ -22,7 +22,7 @@ Types you'll use most:
 Each post wants a **clear photo, a short punchy line, and a call-to-action button** (Call, Book, Learn more, Order). Keep the copy tight — this is a billboard, not a blog.
 
 :::caution[⚠️ Gotcha]
-Some post types (especially offers/updates) **expire** after about a week if they're not evergreen, and an empty, stale posts section looks worse than a modest active one. Don't post once, feel accomplished, and vanish for three months. Cadence beats intensity: a steady rhythm keeps the profile looking alive. Also — no phone numbers or spammy keyword-stuffing in posts; write for the human who'll read it.
+**Offer** and **Event** posts run for the date range you set and then drop off, while **Update**/"What's new" posts stay live but get pushed down as you publish newer ones — so an unattended posts section still reads as stale. An empty, stale posts section looks worse than a modest active one. Don't post once, feel accomplished, and vanish for three months. Cadence beats intensity: a steady rhythm keeps the profile looking alive. Also — no phone numbers or spammy keyword-stuffing in posts; write for the human who'll read it.
 :::
 
 :::note[📋 Swipe this]
@@ -59,17 +59,15 @@ Keep entries real and current — don't list a service the business doesn't offe
 
 ## Messaging and the WhatsApp reality
 
-The profile can offer **messaging** so searchers text the business directly from Search/Maps, and it surfaces basic performance data on enquiries. Useful — *but* here's the ground truth in India:
+Important update: **Google retired native Business Profile messaging/chat on 31 July 2024** — new messages were cut off from 15 July, and the feature (along with call history) was removed entirely. So there's no Google messaging inbox left to enable, and no in-profile chat toggle to hunt for. If a client remembers "chatting through Google," gently tell them that door is closed. Good news: in India you rarely wanted it anyway. Here's the ground truth:
 
-**Many owners live on WhatsApp, not the Google messaging inbox.** They'll miss messages in a channel they don't check, and a missed enquiry is a lost customer — worse than no messaging at all. So be pragmatic:
+**Many owners live on WhatsApp.** A missed enquiry is a lost customer, so meet people in the channels the business *actually* watches, and use the profile to funnel them there:
 
-- If the owner will genuinely monitor Google messaging (or it routes somewhere they watch), enable it and set expectations for reply speed.
-- If not, **don't turn on a channel nobody answers.** Instead, use the profile to drive customers into the channels the business *does* watch — a prominent **Call** button, a **website/booking link**, and where appropriate a **WhatsApp click-to-chat** link (`wa.me/<number>`) surfaced through the website or a post's call-to-action.
-- Lean into how Indian SMBs actually transact: a tap that becomes a **call**, a **WhatsApp enquiry**, or a **UPI-enabled booking**. Meet customers where they are.
+- A prominent **Call** button — the single highest-intent tap on most local profiles.
+- A **WhatsApp click-to-chat** link (`wa.me/<number>`) surfaced through the website and a post's call-to-action, so a search becomes a chat in the app the owner already lives in.
+- A **website/booking link** for anything that's better booked than typed out.
 
-:::caution[⚠️ Gotcha]
-Enabling messaging and then leaving it unanswered is worse than not offering it — Google shows a typical response time, and "responds in a few days" (or a wall of ignored messages) signals a business that doesn't care. Only switch on a channel someone will actually watch. An unwatched inbox is a promise you break in public.
-:::
+Lean into how Indian SMBs actually transact: a tap that becomes a **call**, a **WhatsApp enquiry**, or a **UPI-enabled booking**. Meet customers where they are.
 
 ## Read the performance insights
 
@@ -92,7 +90,7 @@ Ongoing engagement — the weekly posts, Q&A monitoring, product updates, and mo
 
 - Posting once, then silence — a stale posts section reads as a dead business.
 - Leaving Q&A unmonitored (competitors and spammers fill the void).
-- Enabling messaging nobody checks (broken promise, visible slow response time).
+- Funnelling enquiries into a channel the owner never checks, instead of the Call button and WhatsApp they actually watch.
 - Reporting "impressions" to an owner who only cares about calls and walk-ins.
 - Listing products/services the business doesn't actually offer.
 
@@ -107,9 +105,9 @@ Because Q&A is public and *anyone* can answer — including competitors or spamm
 </details>
 
 <details>
-<summary>Q: A client never checks the Google messaging inbox but lives on WhatsApp. Do you enable Google messaging?</summary>
+<summary>Q: A client lives on WhatsApp and wants people to message them from Google. What do you set up?</summary>
 
-No — an unwatched inbox is worse than none, because Google displays a slow/absent response time that signals neglect. Instead, drive customers into the channels the owner actually watches: a strong Call button, a WhatsApp click-to-chat link via the site/posts, and booking links.
+Not Google's old native messaging — Google retired that on 31 July 2024, so there's no in-profile inbox to enable. Instead, drive customers into the channels the owner actually watches: a strong Call button, a WhatsApp click-to-chat link (`wa.me/<number>`) via the site/posts, and booking links.
 </details>
 
 That's the living profile handled. Time to put it all together — your module Assignment awaits.

@@ -57,7 +57,7 @@ Do this for each seed and paste the good ones into your sheet. Fifteen minutes h
 
 [Google Trends](https://trends.google.com) is free and answers two questions paid tools fumble:
 
-- **Seasonality:** does demand spike? "Gym near me" surges every January; "tax filing" peaks before July. If Meena adds teeth-whitening, is there a wedding-season bump? Plan content and ad budget around the wave, not against it.
+- **Seasonality:** does demand spike? "Gym near me" spikes every January in the West, but check India separately — the New-Year resolution surge is far weaker here, so verify in Trends before you plan; "tax filing" peaks in July, around the 31 July ITR deadline. If Meena adds teeth-whitening, is there a wedding-season bump? Plan content and ad budget around the wave, not against it.
 - **Geography:** compare two phrasings and see which region prefers which. Useful when you're unsure whether locals say "dental clinic" or "dental hospital" (in much of India, "hospital" is used far more loosely than you'd expect).
 
 Trends shows *relative* interest over time, not absolute volume — use it for shape and timing, pair it with Planner for scale.

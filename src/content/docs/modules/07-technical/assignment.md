@@ -44,8 +44,8 @@ Work through these in order — each builds on the last.
 
 ### 4. Structured data
 
-- [ ] Deploy **LocalBusiness** schema (or the correct sub-type — `Dentist`, `Restaurant`, `Gym`…) with real name, address, phone, hours, URL — matching the Google Business Profile exactly.
-- [ ] Add **FAQPage** and/or **BreadcrumbList** where genuinely applicable.
+- [ ] Deploy **LocalBusiness** schema (or the correct sub-type — `Dentist`, `Restaurant`, `ExerciseGym`…) with real name, address, phone, hours, URL — matching the Google Business Profile exactly.
+- [ ] Add **BreadcrumbList** (still a real rich result) and/or **FAQPage** (valid markup, but no longer a rich result) where genuinely applicable.
 - [ ] **Do not** mark up fake or self-created reviews.
 - [ ] **Validate** with the Rich Results Test; screenshot the "eligible, 0 errors" result.
 

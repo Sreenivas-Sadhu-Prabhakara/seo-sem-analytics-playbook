@@ -41,7 +41,7 @@ Google reshuffles where you manage a profile constantly. If you're helping an ow
 You don't need fancy tools. You need to look where local demand already lives:
 
 1. **Google Maps** — the motherlode. Search your niche + area, scan for the weak-symptom list above. Note the buried ones *and* the leaders (you'll use the leaders as "look what your competitor is doing" ammo).
-2. **JustDial, Sulekha, IndiaMART** — businesses listed here are already paying *someone* for leads, which means they (a) value marketing and (b) have a budget. A JustDial listing with no proper website is a lovely prospect.
+2. **JustDial, Sulekha, IndiaMART** — a *paid* listing here (boosted position, verified badge) signals a budget: someone's already paying for leads. A bare free listing does not — plenty are self-listed or auto-generated. Treat any presence as a hint, then confirm they actually spend before assuming budget. A *paid* JustDial listing with no proper website is a lovely prospect.
 3. **Local Facebook & Instagram** — neighbourhood groups, "shop local [your city]" pages. Businesses posting into these care about growth but often have a messy Google presence.
 4. **The high street you can literally walk.** Old-school and underrated. Walk your market road. The salon with the beautiful interiors and a nonexistent online presence is a warm walk-in waiting to happen — you've *been there*, so your outreach starts with genuine familiarity.
 

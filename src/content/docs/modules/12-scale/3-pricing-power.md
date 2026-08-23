@@ -44,7 +44,7 @@ Notice: fixed date, a reason rooted in *their* results, notice given, no grovell
 Not all revenue is worth having. Some clients pay you a modest fee and extract a fortune in stress, hours, and self-doubt. A pipeline (next lesson) gives you the one thing that makes bad clients optional: the confidence to walk away, because you're not clinging to this one to survive. Learn the warning signs early:
 
 - **The haggler.** Fights every invoice, always wants "a little discount," treats your price as an opening bid. They'll never see your value because they've decided in advance you don't have any.
-- **The scope-creeper.** "While you're at it, can you also…" every single week. Individually small, collectively a second unpaid job. (This is why written scope from Module 3 exists.)
+- **The scope-creeper.** "While you're at it, can you also…" every single week. Individually small, collectively a second unpaid job. (This is why written scope from Module 1 exists.)
 - **The disrespectful one.** Ignores your advice, then blames you for the result. Messages at midnight expecting instant replies. Talks down to you. No fee is worth being treated like staff you don't even employ.
 - **The can't-pay.** Late every month, "cash-flow issues," promises. You are a freelancer, not their bank. One or two chases is human; a pattern is a decision.
 

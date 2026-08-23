@@ -21,7 +21,7 @@ Work straight down the module you just finished:
 
 - [ ] **Shortlist** from your recon: take your prospect list (Lesson 2) and pick your **top 1–3 candidates** — weighting warm intros and visible, fixable problems.
 - [ ] **Pre-audit** the top candidate: run the full 15-minute pre-audit (Lesson 3) and fill in the checklist. Note the single most revenue-relevant finding.
-- [ ] **Reach out** with the specific insight (Lesson 6): use the observation → cost → curiosity opener, through the warmest channel available. Lead with free value, not a pitch.
+- [ ] **Reach out** with the specific insight: use the observation → cost → curiosity opener (Lesson 3), sent through the warmest channel available (Lesson 6). Lead with free value, not a pitch.
 - [ ] **Send the one-page proposal** (Lesson 5): their problem, your plan, deliverables, timeline, price (from your tiers in Lesson 4), and one clear next step.
 - [ ] **Agree scope** (Lesson 5): lock down what's included, what's *not*, payment terms, and cancellation — even an informal written "I agree" on WhatsApp beats a handshake.
 - [ ] **Record the yes:** who agreed, what scope, what rate (even if ₹0 case-study).

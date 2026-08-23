@@ -11,7 +11,7 @@ This is the lesson where you stop hoping Google figures out the page and start *
 
 ## Why this pays
 
-Structured data makes a business **eligible for rich results** — the star ratings, FAQ drop-downs, breadcrumb trails, and business panels that make a listing bigger and far more clickable than a bare link. More real estate, more clicks, same ranking position. It's a showable win clients rarely have, so it sells as a distinct deliverable — and because it's fiddly and policy-sensitive, doing it *correctly* separates you from the ₹500 "we'll add schema" crowd who mostly break it.
+Structured data makes a business **eligible for rich results** — the star ratings, breadcrumb trails, and business panels that make a listing bigger and far more clickable than a bare link. More real estate, more clicks, same ranking position. It's a showable win clients rarely have, so it sells as a distinct deliverable — and because it's fiddly and policy-sensitive, doing it *correctly* separates you from the ₹500 "we'll add schema" crowd who mostly break it.
 
 ## What structured data actually is
 
@@ -25,14 +25,14 @@ You don't need the hundreds of types on schema.org. For local businesses, a smal
 
 | Type | Use it for | What it can unlock |
 |---|---|---|
-| **LocalBusiness** (and sub-types: `Dentist`, `Restaurant`, `HairSalon`, `Gym`…) | The core "who and where" of any local business | Name, address, hours, phone, geo, price range in Google's eyes |
+| **LocalBusiness** (and sub-types: `Dentist`, `Restaurant`, `HairSalon`, `ExerciseGym`…) | The core "who and where" of any local business | Name, address, hours, phone, geo, price range in Google's eyes |
 | **Service** | Individual services a business offers (teeth whitening, personal training) | Clearer topical understanding of service pages |
 | **Product** | E-commerce / catalogue items | Price, availability, ratings in results |
 | **Review** / **AggregateRating** | Genuine ratings the business has earned | Star ratings in results — *policy-bound, see the Gotcha* |
-| **FAQPage** | A page with genuine Q&A content | Expandable FAQ entries under your listing |
-| **BreadcrumbList** | Site hierarchy (Home › Services › Teeth Whitening) | A clean breadcrumb trail instead of a raw URL |
+| **FAQPage** | A page with genuine Q&A content | Parsed for understanding — but FAQ rich results are deprecated, so no expandable entries appear in search |
+| **BreadcrumbList** | Site hierarchy (Home › Services › Teeth Whitening) | A clean breadcrumb rich result instead of a raw URL — a still-live, showable win |
 
-Use the **most specific type that fits.** A dental clinic is a `Dentist` (which is a sub-type of `LocalBusiness`), not a generic business — the more precise you are, the better Google understands the page.
+Use the **most specific type that fits.** A dental clinic is a `Dentist` (which is a sub-type of `LocalBusiness`), not a generic business — the more precise you are, the better Google understands the page. And mind the exact spelling: a gym is `ExerciseGym`, not the intuitive-but-nonexistent `Gym` — guessing type names is a common cause of validation failures.
 
 :::caution[⚠️ Gotcha]
 **Do not mark up reviews you invented, or reviews you wrote about yourself.** Google's policy is explicit: `Review` and `AggregateRating` markup must reflect *genuine, independent* reviews that are actually displayed on the page — not self-serving ratings a business awards itself, and not fabricated testimonials. Marking up fake or self-created reviews is a policy violation that can get your rich results removed and earn a **manual action** (a human penalty) against the site. If the business genuinely has reviews shown on the page, mark those up. If it doesn't, leave `AggregateRating` out entirely — an honest listing beats a penalised one. This is one of the fastest ways cheap "SEO experts" torch a client's site; don't be them.
@@ -90,9 +90,9 @@ Keep the schema's facts **identical** to what's on the page and on the Google Bu
 :::note[📋 Swipe this]
 **Structured-data deployment checklist:**
 
-- [ ] Choose the **most specific** type (`Dentist`, `Restaurant`, `Gym`…) not just `LocalBusiness`.
+- [ ] Choose the **most specific** type (`Dentist`, `Restaurant`, `ExerciseGym`…) not just `LocalBusiness`.
 - [ ] Fill in name, address, phone, URL, hours, `priceRange` — matching the site and GBP exactly.
-- [ ] Add `FAQPage` schema **only** to pages with real, visible Q&A.
+- [ ] Add `FAQPage` schema **only** to pages with real, visible Q&A (it aids understanding but no longer yields a rich result).
 - [ ] Add `AggregateRating` **only** if genuine reviews are shown on the page.
 - [ ] Add `BreadcrumbList` for the site's navigation hierarchy.
 - [ ] Validate every page with the **Rich Results Test**.
@@ -108,7 +108,7 @@ Two free tools, used every single time:
 
 > 📸 *[Screenshot placeholder: Rich Results Test showing a page eligible for a Local Business result, with 0 errors]*
 
-After deployment, GSC grows dedicated **enhancement reports** (Breadcrumbs, FAQ, etc.) once it detects your markup live — slower but authoritative confirmation.
+After deployment, GSC grows dedicated **enhancement reports** (Breadcrumbs, etc.) once it detects your markup live — slower but authoritative confirmation.
 
 :::caution[⚠️ Gotcha]
 **Eligibility is not a guarantee.** Passing the Rich Results Test means the page is *eligible* for a rich result — not that Google *will* show one, or show it every time. Google decides case by case based on quality, query, and its own judgement. Never promise a client "you'll get star ratings." Promise "we'll make you eligible and give you the best shot" — then let the results speak. Over-promising rich results is a fast route to an awkward month-two conversation.

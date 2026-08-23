@@ -47,7 +47,7 @@ Google Ads pays you back weekly if you actually tend it:
 - **Mine the search terms report → add negatives.** The search terms report shows the *actual* queries that triggered your ads (not just your keywords). You'll find money-wasters: "dental jobs," "free dental camp," "dental college." Add them as **negative keywords** so you stop paying for clicks that never book.
 - **Pause losing keywords and ads.** A keyword that's spent real money over a meaningful window with zero conversions is a leak. Pause it. An RSA that consistently underperforms its sibling? Pause it, let the winner breathe.
 - **Shift budget to winners.** The keyword or ad group quietly delivering leads at a low cost-per-lead deserves more of the budget the losers were wasting. Move the money toward what's working.
-- **Improve low Quality Score ad groups.** A low QS means Google thinks your keyword, ad and landing page don't match. Tighten the ad group so the ad text and landing page actually echo the keyword. Higher QS = lower CPC for the same position. It's a discount you earn by being relevant.
+- **Improve keywords with a low Quality Score.** QS is a per-*keyword* 1–10 score (built from expected CTR, ad relevance and landing page experience) — a low number means Google thinks that keyword, its ad and its landing page don't match. Tighten the ad group so the ad text and landing page actually echo the keyword the QS is scoring. Higher QS = lower CPC for the same position. It's a discount you earn by being relevant.
 
 ### Local moves (from Google Business Profile)
 

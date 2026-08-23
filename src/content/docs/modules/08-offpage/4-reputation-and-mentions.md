@@ -52,10 +52,10 @@ Your client is listed in more places than they realise — Google Business Profi
 ## The niche platforms — the part everyone forgets
 
 :::caution[⚠️ Gotcha]
-Freelancers obsess over Google reviews and completely ignore the platform the client's customers *actually* use to decide. For a doctor or clinic, that's often **Practo**. For a restaurant, **Zomato** (and Google). For home services, **JustDial**, **Sulekha**, **UrbanCompany**. For a B2B supplier, **IndiaMART**. A five-star Google profile with a neglected, one-star-and-unanswered Practo page is a leak you didn't plug. Always ask: *"Where does someone in this category go to decide?"* — then go own that surface too.
+Freelancers obsess over Google reviews and completely ignore the platform the client's customers *actually* use to decide. For a doctor or clinic, that's often **Practo**. For a restaurant, **Zomato** (and Google). For home services, **JustDial** and **Sulekha** — and **Urban Company**, though that one's a managed marketplace you join as a vetted partner (customers book through it and ratings attach to the assigned professional), not a public listing you independently claim and reply to reviews on. For a B2B supplier, **IndiaMART**. A five-star Google profile with a neglected, one-star-and-unanswered Practo page is a leak you didn't plug. Always ask: *"Where does someone in this category go to decide?"* — then go own that surface too.
 :::
 
-Claim the relevant niche profiles, keep them consistent, and — critically — **respond to reviews on them**, not just on Google. A calm, professional reply to a bad review on Practo or Zomato is read by dozens of future customers who never leave a review themselves. You're not arguing with the reviewer; you're performing professionalism for the silent audience that's deciding.
+Claim the relevant niche profiles you actually *can* claim — JustDial, Sulekha, Practo, Zomato — keep them consistent, and — critically — **respond to reviews on them**, not just on Google. A calm, professional reply to a bad review on Practo or Zomato is read by dozens of future customers who never leave a review themselves. You're not arguing with the reviewer; you're performing professionalism for the silent audience that's deciding.
 
 ## Turning happy customers into advocates
 

@@ -1,6 +1,6 @@
 ---
 title: How to use this playbook
-description: The 12-week map, the level tags, the capstone rule, and the callouts you'll see in every lesson.
+description: The ~14-week map, the level tags, the capstone rule, and the callouts you'll see in every lesson.
 sidebar:
   order: 1
 ---
@@ -55,9 +55,9 @@ And at the end of most lessons you'll find a **gut-check** — a few quick quest
 Explain it to someone else — or to your capstone client — without notes. If you can't, re-read. This whole playbook is built to be *taught forward*.
 </details>
 
-## The 12-week map
+## The ~14-week map
 
-The playbook is a comprehensive reference, but if you want a pace, treat it as a ~3-month program — roughly one module a week:
+The playbook is a comprehensive reference, but if you want a pace, treat it as a ~3.5-month program — roughly one module a week:
 
 | Weeks | Modules | You're learning to… |
 | --- | --- | --- |
@@ -82,7 +82,7 @@ Going faster? Great. Going slower? Also great. The capstone client keeps you hon
 ## What you need before Module 0
 
 - A laptop, an internet connection, and a Google account (free).
-- About 6–10 hours a week if you follow the 12-week pace.
+- About 6–10 hours a week if you follow the ~14-week pace.
 - A shortlist of 3–5 local businesses you *could* ask to be your capstone client. Start thinking now — you'll pick one in Module 1.
 
 Ready? [Head to Module 0 — The Landscape →](/seo-sem-analytics-playbook/modules/00-landscape/)

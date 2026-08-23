@@ -49,7 +49,7 @@ This is the heart of the audit. For a local SMB, the conversions that matter are
 |---|---|---|
 | Phone calls | Untracked — phone just rings | Click-to-call events in GA4; call tracking for ads |
 | Website forms | Email arrives, nothing logged | A GA4 event fires on successful submit |
-| WhatsApp clicks | The #1 SMB lead source, 100% invisible | Click on the WhatsApp link fires a GA4 event |
+| WhatsApp clicks | One of the biggest SMB lead channels, 100% invisible | Click on the WhatsApp link fires a GA4 event |
 | Directions / map taps | Untracked | GBP insights + GA4 outbound event |
 
 The near-universal finding: **the business's most important lead channel — WhatsApp and phone — is completely unmeasured.** They *feel* busy or slow but can't attribute a single lead to a source. Document each gap explicitly. You're not fixing it now (that's Module 4); you're building the list of exactly what Module 4 will wire up.
@@ -88,7 +88,7 @@ A proper GA4 + Search Console + conversion-tracking **setup** is a legitimate on
 
 - **Believing "Analytics is installed" without a Realtime test.** Installed ≠ working.
 - **Missing dead UA tags** and mistaking them for live tracking.
-- **Forgetting WhatsApp** — India's biggest SMB lead channel and the most commonly untracked.
+- **Forgetting WhatsApp** — one of the biggest SMB lead channels and the most commonly untracked.
 - **Celebrating history you didn't verify.** Confirm the data is clean before you build recommendations on it.
 
 ## Do this now

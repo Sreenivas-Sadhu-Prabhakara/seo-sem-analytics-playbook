@@ -5,7 +5,7 @@ sidebar:
   order: 0
 ---
 
-Everything you've done so far in this gig has been the long game. On-page fixes, local SEO, backlinks — you're planting a mango tree that fruits in six months. Wonderful. Except your client runs a two-chair dental clinic in Indiranagar and rent is due on the fifth.
+Everything you've done so far in this gig has been the long game. On-page fixes, local SEO, backlinks — you're planting a mango tree that fruits in six months. Wonderful. Except your client runs a two-chair dental clinic in Jayanagar and rent is due on the fifth.
 
 This module is the switch on the wall. Flip it, and your client is on top of Google's results for "root canal near me" by lunchtime. That's the magic of paid search — instant, controllable, measurable traffic. It's also the danger, because every click costs real rupees, and a badly built campaign can vaporise a month's ad budget in a weekend while you're at a wedding. SEO wastes your time when it goes wrong. Ads waste your client's money — and there's no faster way to lose a client than to lose their money.
 

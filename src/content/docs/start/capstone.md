@@ -76,9 +76,9 @@ Every module produces a real deliverable *for this client*. By the end they stac
 | **3 — Keyword & strategy** | A keyword map and a one-page strategy doc for their business. |
 | **4 — Measurement** | GA4 + Search Console + Tag Manager installed, key events defined. |
 | **5 — Local SEO** | Claimed, fully optimised Google Business Profile + citation consistency + review engine. |
-| **6 — On-page** | Rewritten titles, metas and service pages targeting their real keywords. |
-| **7 — Content** | Location/service content that answers what their customers actually ask. |
-| **8 — Technical** | Speed, mobile and schema fixes; a clean technical checklist. |
+| **6 — On-Page & Content** | Rewritten titles and metas, service pages, and location/service content that answers what their customers actually ask. |
+| **7 — Technical** | Speed, mobile and schema fixes; a clean technical checklist. |
+| **8 — Off-Page & Authority** | Earned links, citations and brand mentions that build authority — done ethically, no penalties. |
 | **9 — Google Ads** | A live search campaign with conversion tracking wired to real leads. |
 | **10 — Optimisation** | Negative keywords, better ad copy, tuned bids — measurable improvement. |
 | **11 — Reporting** | A Looker Studio dashboard + a monthly report the owner understands. |

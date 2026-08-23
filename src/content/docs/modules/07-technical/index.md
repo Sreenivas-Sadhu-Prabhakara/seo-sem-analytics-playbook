@@ -26,7 +26,7 @@ By the end of this module you can:
 - Explain, in plain Hindi-English, how Google **crawls, renders, and indexes** a page — and use Google Search Console to see exactly where a page is stuck.
 - Use `robots.txt`, `noindex`, and canonical tags correctly (and know the difference, because mixing them up is how pros accidentally delete a client from Google).
 - **Measure and improve site speed** with PageSpeed Insights and the Core Web Vitals report — and name the three metrics that actually matter (LCP, INP, CLS).
-- Check a site for **mobile-first** reality on the phone-on-patchy-data user who is 90% of Indian local search.
+- Check a site for **mobile-first** reality on the phone-on-patchy-data user who dominates Indian local search.
 - Write correct **LocalBusiness (and friends) structured data** and validate it, without violating Google's review-markup policy.
 - Apply all of the above on the platforms you'll actually meet — WordPress, Wix, Shopify, Dukaan, one-page builders, and hand-coded sites.
 

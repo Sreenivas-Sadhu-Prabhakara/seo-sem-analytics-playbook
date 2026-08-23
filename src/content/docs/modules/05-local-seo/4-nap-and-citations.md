@@ -108,4 +108,4 @@ Run the four-search audit (name, phone, address, plus the big directories) on yo
 Every other citation — JustDial, Facebook, directories, the website footer — still shows the old number. Customers dial a dead line and leave, and the NAP inconsistency drags on prominence. A number change must be a project that updates *all* citations, not just the Google profile.
 </details>
 
-With the web agreeing on who the business is, we keep the profile alive and converting — Posts, Q&A, products and messaging come next.
+With the web agreeing on who the business is, we keep the profile alive and converting — Posts, Q&A and products come next.

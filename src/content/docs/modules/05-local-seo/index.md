@@ -27,7 +27,7 @@ By the end of this module you can:
 - Explain what actually moves the map pack — **relevance, distance and prominence** — and set honest expectations.
 - Install an **ethical review-generation system** that earns real reviews and respond to every one.
 - Audit and fix **NAP consistency**, then build the citations that matter for Indian SMBs.
-- Keep a profile alive and converting with **Posts, Q&A, products and messaging**, and read the performance insights.
+- Keep a profile alive and converting with **Posts, Q&A and products**, and read the performance insights.
 
 ## The deliverable
 
