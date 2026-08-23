@@ -17,7 +17,18 @@ Every technique in this course — every title tag, every ad headline, every GA4
 
 Here's the whole thing, start to finish:
 
-**Query → Impression → Click → Visit → Lead → Sale → Repeat/Referral**
+<figure class="rr-fig">
+	<span class="rr-fig__title">The value chain — where customers leak out</span>
+	<div class="rr-funnel">
+		<div class="rr-funnel__step" style="--w:100%"><b>Query</b><span>the raw demand — "root canal near me"</span></div>
+		<div class="rr-funnel__step" style="--w:86%"><b>Impression</b><span>you show up in the map pack &amp; links</span></div>
+		<div class="rr-funnel__step" style="--w:68%"><b>Click</b><span>your listing looks trustworthy — they tap</span></div>
+		<div class="rr-funnel__step" style="--w:52%"><b>Visit</b><span>fast page, contact one tap away</span></div>
+		<div class="rr-funnel__step" style="--w:34%"><b>Lead</b><span>they call or WhatsApp — a hand goes up</span></div>
+		<div class="rr-funnel__step" style="--w:22%"><b>Sale</b><span>₹8,000 changes hands</span></div>
+	</div>
+	<figcaption class="rr-fig__cap">Every stage leaks. Your job is to widen the narrowest one — and it's rarely the ranking. Then a happy customer widens it back out: <b>Repeat &amp; Referral</b> quietly turn one ₹8,000 sale into ₹40,000.</figcaption>
+</figure>
 
 Walk it with Suresh and our composite clinic, **Sri Balaji Dental, Rajajinagar** (a hypothetical we'll use throughout — realistic, but invented):
 

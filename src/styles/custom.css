@@ -1,0 +1,261 @@
+/* ============================================================================
+   Ranking for Rupees — custom theme + visual-component kit
+   Palette values are from the validated data-viz reference palette (per-mode).
+   Dark-first to match Starlight's convention (base = dark, [data-theme=light] overrides).
+   ============================================================================ */
+
+:root {
+	/* Brand accent = violet (dark steps) */
+	--sl-color-accent-low: #2d2555;
+	--sl-color-accent: #6b5cd6;
+	--sl-color-accent-high: #c9c2f2;
+	--sl-color-text-accent: #b3aaf0;
+
+	/* Viz tokens — dark surface (#1a1a19-ish) */
+	--rr-accent: #9085e9; /* violet, brand */
+	--rr-accent-soft: rgba(144, 133, 233, 0.16);
+	--rr-seo: #199e70; /* aqua — organic */
+	--rr-seo-soft: rgba(25, 158, 112, 0.16);
+	--rr-ads: #d95926; /* orange — paid */
+	--rr-ads-soft: rgba(217, 89, 38, 0.16);
+	--rr-good: #16b516;
+	--rr-bad: #e05555;
+	--rr-good-soft: rgba(12, 163, 12, 0.14);
+	--rr-bad-soft: rgba(208, 59, 59, 0.14);
+
+	--rr-ink: #ffffff;
+	--rr-ink-2: #c3c2b7;
+	--rr-muted: #898781;
+	--rr-surface: #1f1f1e;
+	--rr-surface-2: #262625;
+	--rr-hair: rgba(255, 255, 255, 0.12);
+	--rr-grid: #2c2c2a;
+}
+
+:root[data-theme='light'] {
+	--sl-color-accent-low: #e4e0f7;
+	--sl-color-accent: #4a3aa7;
+	--sl-color-accent-high: #241a52;
+	--sl-color-text-accent: #4a3aa7;
+
+	--rr-accent: #4a3aa7; /* violet, brand */
+	--rr-accent-soft: rgba(74, 58, 167, 0.10);
+	--rr-seo: #1baf7a; /* aqua — organic */
+	--rr-seo-soft: rgba(27, 175, 122, 0.12);
+	--rr-ads: #eb6834; /* orange — paid */
+	--rr-ads-soft: rgba(235, 104, 52, 0.12);
+	--rr-good: #0ca30c;
+	--rr-bad: #d03b3b;
+	--rr-good-soft: rgba(12, 163, 12, 0.10);
+	--rr-bad-soft: rgba(208, 59, 59, 0.10);
+
+	--rr-ink: #0b0b0b;
+	--rr-ink-2: #52514e;
+	--rr-muted: #898781;
+	--rr-surface: #ffffff;
+	--rr-surface-2: #f6f6f4;
+	--rr-hair: rgba(11, 11, 11, 0.10);
+	--rr-grid: #e1e0d9;
+}
+
+/* ---------------------------------------------------------------------------
+   Global engagement polish
+   --------------------------------------------------------------------------- */
+
+/* Lead paragraph: the first paragraph after the H1 reads as a deck. */
+.sl-markdown-content > p:first-of-type {
+	font-size: var(--sl-text-lg);
+	line-height: 1.6;
+	color: var(--rr-ink-2);
+}
+
+/* Tables: header accent + zebra + rounded frame. */
+.sl-markdown-content table {
+	border-collapse: separate;
+	border-spacing: 0;
+	overflow: hidden;
+	border-radius: 10px;
+	border: 1px solid var(--rr-hair);
+}
+.sl-markdown-content thead th {
+	background: var(--rr-accent-soft);
+	color: var(--rr-ink);
+	border-bottom: 1px solid var(--rr-hair);
+}
+.sl-markdown-content tbody tr:nth-child(even) {
+	background: var(--rr-surface-2);
+}
+
+/* Screenshot-placeholder blockquotes: a dashed "insert image here" frame. */
+.sl-markdown-content blockquote {
+	border-inline-start: 3px dashed var(--rr-accent);
+	background: var(--rr-accent-soft);
+	border-radius: 8px;
+	font-style: normal;
+}
+
+/* Give the emoji-titled asides a touch more presence. */
+.sl-markdown-content .starlight-aside {
+	border-radius: 10px;
+}
+
+/* ---------------------------------------------------------------------------
+   Visual kit — figure wrapper
+   --------------------------------------------------------------------------- */
+.rr-fig {
+	margin: 1.5rem 0;
+	padding: 1.15rem 1.25rem 1.25rem;
+	background: var(--rr-surface);
+	border: 1px solid var(--rr-hair);
+	border-radius: 14px;
+}
+.rr-fig__cap {
+	display: block;
+	margin-top: 0.7rem;
+	font-size: var(--sl-text-xs);
+	color: var(--rr-muted);
+	line-height: 1.4;
+}
+.rr-fig__title {
+	font-weight: 700;
+	font-size: var(--sl-text-sm);
+	letter-spacing: 0.02em;
+	text-transform: uppercase;
+	color: var(--rr-ink-2);
+	margin-bottom: 0.9rem;
+}
+
+/* ---- Stat tiles ---------------------------------------------------------- */
+.rr-stats {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+	gap: 0.75rem;
+	margin: 1.5rem 0;
+}
+.rr-stat {
+	background: var(--rr-surface);
+	border: 1px solid var(--rr-hair);
+	border-radius: 14px;
+	padding: 1rem 1.1rem;
+	border-top: 3px solid var(--rr-accent);
+}
+.rr-stat__num {
+	font-size: 2rem;
+	font-weight: 800;
+	line-height: 1.05;
+	color: var(--rr-ink);
+	font-variant-numeric: tabular-nums;
+}
+.rr-stat__label {
+	display: block;
+	margin-top: 0.3rem;
+	font-size: var(--sl-text-xs);
+	color: var(--rr-ink-2);
+	line-height: 1.35;
+}
+.rr-stat--seo { border-top-color: var(--rr-seo); }
+.rr-stat--ads { border-top-color: var(--rr-ads); }
+.rr-stat--good { border-top-color: var(--rr-good); }
+
+/* ---- Funnel (width encodes magnitude; color is constant brand) ----------- */
+.rr-funnel { display: flex; flex-direction: column; gap: 6px; align-items: center; }
+.rr-funnel__step {
+	width: var(--w, 100%);
+	min-width: 30%;
+	background: linear-gradient(0deg, var(--rr-accent), var(--rr-accent));
+	color: #fff;
+	border-radius: 8px;
+	padding: 0.6rem 0.9rem;
+	text-align: center;
+	line-height: 1.25;
+	transition: width 0.2s ease;
+}
+.rr-funnel__step b { font-size: var(--sl-text-base); }
+.rr-funnel__step span { display: block; font-size: var(--sl-text-xs); opacity: 0.9; }
+.rr-funnel__step:nth-child(1) { opacity: 1; }
+.rr-funnel__step:nth-child(2) { opacity: 0.9; }
+.rr-funnel__step:nth-child(3) { opacity: 0.8; }
+.rr-funnel__step:nth-child(4) { opacity: 0.72; }
+.rr-funnel__step:nth-child(5) { opacity: 0.64; }
+.rr-funnel__step:nth-child(6) { opacity: 0.58; }
+
+/* ---- Horizontal bar meters (width = value) ------------------------------- */
+.rr-bars { display: flex; flex-direction: column; gap: 0.7rem; }
+.rr-bar { display: grid; grid-template-columns: 9rem 1fr auto; align-items: center; gap: 0.6rem; }
+.rr-bar__label { font-size: var(--sl-text-sm); color: var(--rr-ink-2); }
+.rr-bar__track { background: var(--rr-surface-2); border-radius: 999px; height: 12px; overflow: hidden; }
+.rr-bar__fill { height: 100%; width: var(--v, 50%); background: var(--rr-accent); border-radius: 999px; }
+.rr-bar__val { font-size: var(--sl-text-xs); color: var(--rr-muted); font-variant-numeric: tabular-nums; }
+.rr-bar--seo .rr-bar__fill { background: var(--rr-seo); }
+.rr-bar--ads .rr-bar__fill { background: var(--rr-ads); }
+
+/* ---- Journey / process steps -------------------------------------------- */
+.rr-steps { list-style: none; padding: 0; margin: 1.25rem 0; display: grid; gap: 0; counter-reset: rr; }
+.rr-steps > li {
+	position: relative;
+	padding: 0 0 1.1rem 2.6rem;
+	border-inline-start: 2px solid var(--rr-hair);
+	margin-inline-start: 0.8rem;
+	counter-increment: rr;
+}
+.rr-steps > li:last-child { border-inline-start-color: transparent; padding-bottom: 0; }
+.rr-steps > li::before {
+	content: counter(rr);
+	position: absolute;
+	inset-inline-start: -0.85rem;
+	top: -0.15rem;
+	width: 1.7rem; height: 1.7rem;
+	display: grid; place-items: center;
+	background: var(--rr-accent); color: #fff;
+	border-radius: 50%;
+	font-size: 0.85rem; font-weight: 700;
+}
+.rr-steps > li b { color: var(--rr-ink); }
+.rr-steps > li span { color: var(--rr-ink-2); font-size: var(--sl-text-sm); }
+
+/* ---- Comparison: two poles (SEO vs Ads etc.) ----------------------------- */
+.rr-compare { display: grid; grid-template-columns: 1fr 1fr; gap: 0.85rem; margin: 1.5rem 0; }
+.rr-compare__col { border: 1px solid var(--rr-hair); border-radius: 14px; padding: 1rem 1.1rem; background: var(--rr-surface); }
+.rr-compare__col h4 { margin: 0 0 0.5rem; display: flex; align-items: center; gap: 0.4rem; }
+.rr-compare__col ul { margin: 0; padding-inline-start: 1.1rem; }
+.rr-compare__col li { font-size: var(--sl-text-sm); margin: 0.25rem 0; }
+.rr-compare--a { border-top: 3px solid var(--rr-seo); background: var(--rr-seo-soft); }
+.rr-compare--b { border-top: 3px solid var(--rr-ads); background: var(--rr-ads-soft); }
+.rr-compare__tag { font-size: 0.7rem; font-weight: 700; padding: 0.1rem 0.5rem; border-radius: 999px; color: #fff; }
+.rr-compare__tag--a { background: var(--rr-seo); }
+.rr-compare__tag--b { background: var(--rr-ads); }
+
+/* ---- Do / Don't cards ---------------------------------------------------- */
+.rr-dodont { display: grid; grid-template-columns: 1fr 1fr; gap: 0.85rem; margin: 1.5rem 0; }
+.rr-do, .rr-dont { border-radius: 14px; padding: 0.9rem 1.05rem; border: 1px solid var(--rr-hair); }
+.rr-do { background: var(--rr-good-soft); border-inline-start: 3px solid var(--rr-good); }
+.rr-dont { background: var(--rr-bad-soft); border-inline-start: 3px solid var(--rr-bad); }
+.rr-do h4, .rr-dont h4 { margin: 0 0 0.4rem; font-size: var(--sl-text-sm); }
+.rr-do ul, .rr-dont ul { margin: 0; padding-inline-start: 1.2rem; }
+.rr-do li, .rr-dont li { font-size: var(--sl-text-sm); margin: 0.2rem 0; }
+
+/* ---- Pyramid (ordered layers, e.g. keyword intent) ----------------------- */
+.rr-pyramid { display: flex; flex-direction: column; align-items: center; gap: 5px; margin: 1.4rem 0; }
+.rr-pyramid__row {
+	background: var(--rr-accent); color: #fff; text-align: center;
+	padding: 0.5rem 0.8rem; border-radius: 6px; line-height: 1.2;
+}
+.rr-pyramid__row span { display: block; font-size: var(--sl-text-xs); opacity: 0.9; }
+.rr-pyramid__row:nth-child(1) { width: 46%; opacity: 0.95; }
+.rr-pyramid__row:nth-child(2) { width: 64%; opacity: 0.85; }
+.rr-pyramid__row:nth-child(3) { width: 82%; opacity: 0.75; }
+.rr-pyramid__row:nth-child(4) { width: 100%; opacity: 0.68; }
+
+/* ---- Inline SVG chart wrapper -------------------------------------------- */
+.rr-chart svg { display: block; width: 100%; height: auto; }
+.rr-chart .rr-legend { display: flex; gap: 1.2rem; flex-wrap: wrap; margin-top: 0.5rem; font-size: var(--sl-text-xs); color: var(--rr-ink-2); }
+.rr-chart .rr-legend b { display: inline-flex; align-items: center; gap: 0.35rem; font-weight: 600; }
+.rr-chart .rr-legend i { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
+
+/* ---------------------------------------------------------------------------
+   Responsive
+   --------------------------------------------------------------------------- */
+@media (max-width: 42rem) {
+	.rr-compare, .rr-dodont { grid-template-columns: 1fr; }
+	.rr-bar { grid-template-columns: 7rem 1fr auto; }
+}

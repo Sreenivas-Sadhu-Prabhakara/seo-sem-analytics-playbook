@@ -13,6 +13,7 @@ export default defineConfig({
 			tagline: 'Get found. Get clicks. Get paid.',
 			description:
 				'The freelancer’s playbook for turning SEO, Google Analytics and Google Ads into paid work — built for Indian local businesses.',
+			customCss: ['./src/styles/custom.css'],
 			social: [
 				{
 					icon: 'github',
